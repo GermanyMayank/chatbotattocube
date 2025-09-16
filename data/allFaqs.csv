@@ -1,0 +1,644 @@
+﻿Title;Answers;Confidentiality;Product Type;Description
+Do we test the pitch, yaw and roll of the ECSx3030?;"
+Yes, we test this for each produced ECSx3030 (left: Aluminum 50 pcs. / right: StainlessSteel 49 pcs.). Please do not share the test report but the values!
+";;x3030;
+Why is there no HV version of the ECSz5050?;Because otherwise the table will become too heavy and the positioner cannot lift anything. Drive is too weak for HV conditions.;Internal;z5050;
+Do we test the lateral runouts of the ECSx3030?;Yes, we test this for each produced ECSx3030 (left: Aluminum 50 pcs. / right: StainlessSteel 49 pcs.). Please do not share the test report but the values!;Internal;x3030;
+Is there information about the lateral runout?;"Runout XY:  ~2µm/mm
+Runout Z:  ~1µm/mm
+These are theoretical values derived from technical drawings";Internal;xy5050;
+Do we test the velocity of the ECSx3030?;Yes, we test this for each produced ECSx3030 (left: Aluminum 50 pcs. / right: StainlessSteel 49 pcs.). Velocity @ 45 V, 1 kHz.  Please do not share the test report but the values!;Internal;x3030;
+Do the NUM sensors show Non-Linearities?;"Yes, based on one measurement the non-linearities are expected to be around +-200 nm. (this only affects the aboslute accuracy, but not the repeatability)
+Comparable non-linearities can be expected in any kind of NUM sensor/Encoder for nanopositioners, also the ones of our competitors.
+More information can be found in this strictly internal test report: ";Internal;x3030;
+Why is there no HV version of the ECSz3030?;Because otherwise the table will become too heavy and the positioner cannot lift anything. Drive is too weak for HV conditions.;Internal;z3030;
+Do we test the pitch, yaw and roll of the ECSx3050?;Yes, we test this for each produced ECSx3050 (left: Aluminum 9 pcs. / Right: Stainless-steel 8 pcs.);Internal;x3050;
+"Do we test the lateral runouts of the ECSx3050?	";Yes, we test this for each produced ECSx3050 (left: Aluminum 9 pcs. / right: StainlessSteel 8 pcs.);Internal;x3050;
+Do we test the velocity of the ECSx3050?;Yes, we test this for each produced ECSx3050 with 40V and 1 kHz (left: Aluminum 9 pcs. / right: StainlessSteel 8 pcs.):;Internal;x3050;
+"Do we test the pitch, yaw and roll of the ECSx5050?	";Yes, we test this for each produced ECSx5050 (left: Aluminum 75 pcs. / right: StainlessSteel 73 pcs.):;Internal;x5050;
+Do we test the lateral runouts of the ECSx5050?;Yes, we test this for each produced ECSx5050 (left: Aluminum 75 pcs. / right: StainlessSteel 73 pcs.):;Internal;x5050;
+"Do we test the velocity of the ECSx5050?	";"Yes, we test this for each produced ECSx5050 (left: Aluminum 75 pcs. / right: StainlessSteel 73 pcs.):
+
+";Internal;x5050;
+"Is the ECSx5050 magnetic? Is there an estimate in the magnetic field strength?	";"The magnetic properties of the ECSx5050/StSt/NUM/HV were tested by a customer in December 2021. They measured the following magnetic field strength:
+
+4 μT at 30mm distance, and
+ca. 8 μT at 7mm distance
+Furthermore, notice that the magnetic field is:
+
+especially strong at the guide rail and its screws (if they are not covered)
+rather strong in the middle (above the attocube logo): ca. 4μT @ 30mm
+
+Internal information: For further details see the measurement protocol by external laboratory FILE_1
+. (only available in German)";Public;x5050;
+"Is there a optimal frequency to drive the ECSx5050?	";"The correct choice of the frequency is not a crucial factor for the measurements if no load is applied on the linear positioner. However, once there is any weight put on the linear positioner, one should consider choosing the right frequency to move the positioner more efficiently. One should be beware of the slight difference in the optimal frequencies for the forward and backward direction of the movement in case the load is applied.
+
+For further details please read PDF_1.";Internal;x5050;
+What is the specific wobble of the ECR3030/NUM/Al?;"<0,7 mrad
+";Public;3030;
+What is the specific wobble of the ECR4040/NUM? ;"<0,7 mrad
+";Public;4040;
+"Where is the reference position of the ECR positioners?	";Further information can be found in this drawing: PDF_1;Internal;"4040;#3030;#5050hs";
+How does the grease affect the vacuum compatibility of the EC* positioners?;"UHV versions of the rotators and goniometers of our EC*-Series are only specified down to 10-9 mbar and not down to 10-11 mbar as the linear ECS positioners. The limitation is caused by the used grease (Ultratherm). It is not possible built up an ECR without grease. The vapor pressure of the grease is temperature-dependent:
+
+Vapor pressure at 100°C :1 · 10-8 hPa / 7.5 · 10-9 Torr / 1 · 10-8 mbar
+Vapor pressure at 20°C :1 · 10-12 hPa / 7.5 · 10-13 Torr / 1 · 10-12 mbar
+Vapor pressure at 200°C :1 · 10-5 hPa / 7.5 · 10-6 Torr / 1 · 10-5 mbar
+Vapor pressure at 250°C :1 · 10-4 hPa / 7.5 · 10-5 Torr / 1 · 10-4 mbar
+Lubricating capacity : good/ very good
+Temperature range         :-60 – 280 °C / -76-536 °F / 213-553K
+
+
+If a customer wants to bake out, they could do that, but it would lead to a ""dirty"" vacuum chamber due to the high outgassing rate.
+
+If you do have a customer who needs pressure down to 10^-11 mbar, please contact ST and we will try our best to find a solution.";Internal;"4040;#3030;#5050hs";
+"What is the specific wobble of the ECR5050hs/NUM?	";"< 1 mrad
+";Public;5050hs;
+"What is the definition of ""wobble""?	";Wobble is the position-dependent angular misalignment of the real axis of rotation relative to its ideal axis. Wobble is often cyclic in nature and is caused by the imperfect nature of mechanical components. It is defined for one full rotation (360°) and does not include any static offset of the rotating axis to an interface or mounting plate. ;Public;5050hs;
+"How is the ""wobble"" of a rotator measured?	";"The ECR/NUM series has been tested with our testbench""Randy"" over the last years. After data collection and evaluation, we are ow able to specify ""wobble"" values for these positioners. This will be tested as part of outgoing quality control, the specifications listed below already include a factory of saftey. Please note that we are only able to test and specify closed loop (/NUM) versions.
+
+
+This is based on having 3 sensor heads, mounted along a fixed XYZ coordinate system above the rotator, measuring the Z component deviations during the rotation. With the values of two out of these 3 sensor heads we get the pitch value and the roll value respectively, as well as the hight deviation along Z from all 3 sensor heads. The result is a measurement as shown in the screenshot on the right.";Semi-internal;5050hs;
+Information regarding mechanical tolerances of the ECR5050hs:;"What is the nominal diameter of the center hole, on the top rotating table?
+What are the tolerances of the center hole diameter?
+What is the concentricity of the center hole relative to the bearing (eccentricity)?
+Tolerance of the 15mm stage thickness? Parallelism of the table top surface to the stage base?
+The relevant information can be found in the drawing on the right.
+
+For high resolution, see the original document: PDF_1";Public;5050hs;
+"What is the difference between an ECGt and an ECGp goniometer?	";"ECGt is a Θ-positioner, while ECGp is a Φ-positioner.
+Each size of goniometer is available in two versions which are usually used as a pair for theta (Θ) and phi (Φ) motion.
+The Θ positioner mounted on top of the Φ positioner forms a tip-tilt stage with a common center of rotation.
+ Mounting is done directly via two or four screws.
+Combinations with other positioners are e.g. explained at EC* Adapter Plates (EAPs). ";Public;t5050;
+"What is the difference between an ECGp and an ECGt goniometer?	";ECGt is a Θ-positioner, while ECGp is a Φ-positioner. Each size of goniometer is available in two versions which are usually used as a pair for theta (Θ) and phi (Φ) motion. The Θ positioner mounted on top of the Φ positioner forms a tip-tilt stage with a common center of rotation. Mounting is done directly via two or four screws. Combinations with other positioners are e.g. explained at EC* Adapter Plates (EAPs). ;Public;p5050;
+"How can you determine the power consumption of an AMC Controller?	";"Theory:
+
+The formular to compute the power usage per controller (consisting of 3 axis each) is:
+
+PAMC300 = 18 W + (Ua1² × f1 × C1) + (Ua2² × f2 × C2) + (Ua3² × f3 × C3)
+
+PAMC100 = 8 W + (Ua1² × f1 × C1) + (Ua2² × f2 × C2) + (Ua3² × f3 × C3)
+
+
+There is about 18 W of idle state power consumption per AMC300 board (for AMC100 board onyl 5-8 W).
+Additionally, there is a necessary amount of power per axis (1 to 3) that drives the attached positioner, which is determined by the formula Ua² * f * C . Here, Ua  denotes the driving voltage,f the driving frequency and C the attached piezo capacitance, which depends on the connected positioner.";Public;AMC;"Example:
+
+As an example, consider the following positioners simultaneously run by an AMC300:
+
+ECR5050hs/AL/NUM/RT à C = 720 nF
+ECGt5050/Al/NUM/RT à C = 1110 nF
+ECGp5050/Al/NUM/RT à C = 1110 nF
+Also, consider an exemplary standard setting across all axes of
+
+driving voltage:       Ua1-3 = 40 V
+driving frequency:  f1-3 = 1000 Hz  
+With the above values, the formula for the power consumption returns:
+
+P = 18 W + (40 V * 40 V * 1000 Hz * 720 nF) + (40 V * 40 V * 1000 Hz * 1110 nF) + (40 V * 40 V * 1000 Hz * 1110 nF) = 5 W + 1.15 W + 1.77 W + 1.77 W = 22.69 W
+
+--> Thus, the power consumption amounts to about 23 W for this board when driving the 3 positioners simultaneously."
+"Is the attoDISCOVERY Software compatible with Linux?	";"Yes, for more information on how to install the attoDISCOVERY Software, see AMC300 User Manual Section 6.10.
+";Public;AMC;
+"Does attocube use free and open source software?	";"Yes, more information can be found in the About tab of the controller in the webinterface.
+";Public;AMC;
+"Is there a Step file of the positioner connector?	";YES, check attached  .STEP file;Public;;
+"Is there an AMCC cable for extra long distances?	";"Yes, please ask PM.
+
+internal:
+
+Yes, there is a cust. special AMCC cable (1024999) connecting the AMC and the Feedthrough with distances of up to 15m.
+Please aks PM before selling and keep in mind that this still is a prototype cable and therefore also looks different (2 parallel cables, see picture):";Public;AMCC Connection Cables;
+"How long are the 3 individual cables of the AMCC/3/RES/D-Sub-15/2.0/(U)HV?	";The image below on the left is misleading as it shows that the cable splits into the three individual cables after a certain length. In reality, the cables are separated over the entire length, meaning that each of the three cables has a length of ~2m (see PDF ).;Public;AMCC Connection Cables;
+"Is there any further information on the specifications of the wires used for the AN* positioner cables?	";Yes, please find the wire specifications here (AWG 32, Grad 2): Wire_Specifications.pdf;Internal;AMCC Connection Cables;
+The AMC300 also shows /PRO and /IO feature, do I have to quote it seperately?;No. The /PRO and /IO feature is always included within the std. AMC300 articles (table top, rack version, futur OEM).;Public;AMC300;
+"What is included for the AMC300?	";"/PRO and /IO feature, the wireless DS4 (""Playstation"") controller incl. cable and USB dongle, power supply, and as many cables for RT testing as axis ordered (--> e.g. 5 axis rack controller comes with 5 RT cables).
+";Public;AMC300;
+"What can or should be ordered in addition?	";"Most of the times a suitable cable is needed, if the customer uses a SubD15 feedthrough or bought our EVFT the suitable controller cable can be offered (AMCC/3/RES/D-Sub-15/2.0/(U)HV 1020369). Another option is to quote him the Toolbox RES cabling for AMC300 (1021013) for building their own suitable cable. For inside the chamber the AVC cable can be suitable (depends once again on used feedthrough). More info within Cabling Overview.pdf
+";Public;AMC300;
+"A customer has already an AMC300 with one axis and wants to upgrade the controller for 3-axis operation - what do I have to offer?	";"In this case the dual- and the tri-channel upgrade needs to be quoted as the tri-channel upgrade only upgrades a 2 axis or 5 axis controller to a 3 or 6 axis controller. Also, if needed an additional RT cable AMCC/1/RES/5-pin/2.0/RT (1020988) needs to quoted. The RT cable is NOT included within the upgrade. The upgrade is only a activation code. If a ""new"" customer requests a 2 or 3 axis AMC300 please directly quote the suitable controller (with it the RT cable is included).
+";Public;AMC300;
+"Which Testing Laboratories has certified the AMC300?	";"Based on the CB scheme (IEC and IECEE standard) the company ""Eurofins Electric & Electronic Product Testing AG"" tested and certified the AMC300 for:
+
+CE conformity
+UL readiness
+CAN/CSA readiness
+Find here the CB Scheme testing certificate
+
+Internal information: Test results UL and CAN/CSA readiness
+and CB Scheme Test Report (strictly internal) ";Public;AMC300;
+"What is the input voltage and current of the AMC300?	";"Input Voltage: 100 - 240 AC volts
+Input current: 2.2 amps";Public;AMC300;
+Power Consumption AMC100 If the AMC100 is connected to a 12 V voltage source, what is the maximal available amperage that is needed in order to move a positioner?;"Generally speaking you will need 3 A.
+Attention: With only 12 V it might not be possible to use the full power or operate several axes at once. If in doubt, contact PM or AppDev.";Public;"AMC110;#AMC100";
+Do I need further equipment / electronics in order to read in the IO-output and to process it on my PC?;"Yes, you will need a DAQ-Card for that. You can find examples in the following document: 2023_Recommendations DAQ cards.pdf
+
+The customer is responsible for the implementation.";Public;"AMC100;#AMC110";
+Do we have a grounding overview for all AMC/NUM verisons?;"Yes, but strictly internal!
+
+20220719_AMC110_GND_Schema.pdf";Internal;"AMC110;#AMC100";
+Which Testing Laboratories have certified the AMC100/2HE?;"Together with the AMC300 and based on the CB scheme (IEC and IECEE standard) the company ""Eurofins Electric & Electronic Product Testing AG"" tested and certified the AMC100/2HE for:
+
+CE conformity
+UL readiness*
+CAN/CSA readiness
+Find here the (AMC100/2HE is listed as AMC100V2) CB Scheme testing certificate
+
+All listed controllers were also tested for UL and CAN/CSA confirmity: First Page of Test IEC Test report
+
+* Meaning “UL-Readiness”: The product is not officially “UL certified”, as that certification requires frequent/annual audits of the production, but all components used and the laboratory testing (based on CB-Scheme) fulfill the UL conformity. So in case you need official UL Certification the AMC will not cause any problems during an audit.
+
+Internal information (whole report): Test results UL and CAN/CSA readiness ";Public;"AMC100;#AMC110";
+"How much space is needed on the back for the cabling?	";"AMC110 & AMC100/2HE: 120mm (considering connector size and bending radius)
+";Public;"AMC100;#AMC110";
+"Is there an EPICS integration for the AMC100?	";There is no integration provided by attocube, however, this integration provided by a customer can be used as a guideline: https://github.com/epics-motor/motorAttocube/pull/2 ;Public;"AMC100;#AMC110";
+Is a 22.4VDC power supply for the AMC100/2HE enough to run EC* positioners?;"Yes, 22.4V are enough, however, the current consumption will be slightly higher, as the power input of the AMC remains the same.
+";Public;"AMC100;#AMC110";
+"Rückwärtskompatibilität bzgl. Positionierer (old Info)	";"Die AMC-Serie verfügt über einen Schutz-Mechanismus, welcher ein Aktivieren einer Achse nicht erlaubt, sollte kein Positionierer an der entsprechenden Achse angesteckt sein. Dieses wird über eine Brück und einen Pin (POS-CON) erkannt. In einem nicht genauer bekannten Zeitraum wurden jedoch Positionierer OHNE diese Brücke gefertigt! Sollte ein Kunde eine AMC kaufen ohne Positionierer sondern nur als Ersatz für ein bisheriges Gerät bitte mit RND Rücksprache halten!
+
+";Internal;"AMC100;#AMC110";
+"Is there a Step file of the positioner connector?	";"EC* Series:
+
+(U)HV: 15 pin Sub-D connector female.step";Public;AMCC Connection Cables;
+"Thermal conductance of the ATC100?	";"approximated values @5K
+
+Length L [mm]    Foils / sheets Braids
+35                     ~ 45 mW/K   ~ 19 mW/K
+60                     ~ 31 mW/K         ~ 12 mW/K
+70                     ~ 26 mW/K         ~ 10 mW/K
+80                     ~ 20 mW/K         ~ 8 mW/K
+100                     ~ 18 mW/K         ~ 5 mW/K";Public;ATC;
+Is it possible to offer a different length besides the std. lengths?;"Yes. But the std. length should always be preferred in terms of a quicker delivery time, less effort and lower price. A non standard length is mostly done with braids. Braids feature a lower thermal conductivity. Please consider this. Use the ATC selection and composition tool v1.2.xlsx
+ to check wether a length is appropriate or not for a specific stack.";Public;ATC;
+"Is it possible to offer another sensor type?	";Yes - as long as the desired sensor is available as SD package it fits into the top plate of the ATC. You can check different options on the lakeshore webpage for example. Other packages do not fit into the whole and therefore need to be mounted on top of the top plate with a adapter or similar (mostly done but customer on his own).;Public;ATC;
+"Does the ATC feature a serial number?	";All new ordered cernox ATCs have a double heater as well as a serial number on the mechanical part. The serial number of the ATC is important to link it with the serial number of the sensor. Both serial numbers will be on the USB which is sent out together with the ATC. Only the ATCs with a sensor as well as the customized ATCs will have a serial number.;Public;ATC;
+"What happened to the ATCs with Si sensor?	";"We decided to stop the sales of all ATCs with a silicon diode. We – and most of our customers – don’t see a benefit in those ATCs. The uncalibrated Si diode is “useless” and the calibrated Si diode is only 100€ than the cernox sensor. Moreover, the cernox sensor is more accurate as well as suitable for magnetic fields (looking at our future (magnet option) we see a higher benefit in those sensors). Furthermore, everyone should be aware that more articles lead to more costs (e.g. storage and maintenance costs) and just overcomplicate a few things and processes.
+";Public;ATC;
+"Question on thermal conductance in general and in regards to a atto3DR: How good (or poor) is the thermal conductivity through the attocube stack? Does it differ much between Ti & CuBe?	";"In vacum there is basically no thermalisation of the sample holder through the stack. The metallic pieces of the positioners are separated by the piezo elements which have very poor thermal conductance. For this reason an ATC is needed. Like we do in the attodry 800. Depending on what the customer wants to measure, sometimes cooling well the sample holder is not so relevant, provided the electrical wires going to the sample are well thermalised. Still, better to use an ATC. The material of the positioners makes a difference more on the general stability of the stack due to thermal contraction and the time needed to reach base T, than to which temperature the sample will reach. CuBe is better than Ti because Ti enters a superconducting phase at mK temperatures, thus does not conduct well heat. CuBe stays a good heat conductor, still with the caveat above. When customer don’t want to buy CuBe and don’t care about Ti becoming superconducting (even though little milliTesla of magnetic field are enough to break this) , we build Ti-posis in DR without problems, eventually using some extra thermalisation foils
+";Semi-internal;ATC;
+"How much does the ATC100 improve the sample base temperature? (In Final state, on average, how much difference could be there between Cold Plate & Sample?	";"The ATC100’s property is its thermal conductance at about 4K which is given in the specsheet. In a configuration like into the 800 we usually see a difference of ca 100-200mK between cryostat’s cold plate and ATC top plate. This is configuration dependent and should not be generalised
+";Semi-internal;ATC;
+"Are we offering mK ATCs?	";"
+We can. As per November 2024 we can offer a mK suitable ATC as CUST. It costs the same as the ATC100 Cer. It has 100 top plate, 100 bottom plate 80 mm length, our standard heater and a Physics Instruments RO-600 Class A sensor. Ask PM for details.
+
+
+1029056 ATC100/RuO/80/mKArticle 1011315 in Steps
+Model RO-600 (1KΩ) | Scientific Instruments";Public;ATC;
+"Is the cabling of AN*(U)HV positioners UL certified?	";"Yes. The wire is UL certified. See info from supplier Detakta below.
+Der Polyimid Wickeldraht ist unter der UL File Nr. E32638 mit der Material Designation ""Allex"" gelistet.
+Dieser Eintrag ist online einsehbar (Auszug nachstehend)";Semi-internal;AN* Series Cabling;
+"Highest tested VAC compatibility of AN* positioners?	";"An external company tested the AN* positioners for pressures down to 5e-11mBar in the year 2004 and thereby verified the performance. Since then no further tests at such low pressures were carried out, but several customers utilize the positioners at UHV pressure without problems.
+";Public;AN* Series;
+"At what temperature does CuBe start superconducting? What would be critical Magnetic field to prevent that?	";"We are not aware that CuBe has a superconducting phase at all. So it remains normal conducting even at almost 0 T. (2017)
+";Semi-internal;AN* Series;
+Do you have information about the thermal conductivity of your CuBe and Titanium products? ;"How do they compare at low (4K) and ultra-low tmeperature (e.g. 12 mK)? Is the CuBe option going to transport heat more efficiently towards the floor of the sample space?
+
+ANS:We are using titanium grade 2 (unalloyed titanium), which is supposed to have about the same thermal conductivity as CuBe.
+
+As titanium gets superconducting at T < 400 mK its thermal conductivity is much lower at mK temperature than that of CuBe. We therefore advise customers working at these temperatures to go fur CuBe.
+
+At T < 400 mK heat transport in titanium is strongly suppressed due to its superconducting phase. We therefore strongly recommend CuBe as otherwise it may take a while to cool down a set of positioners. Furthermore you will get eddy currents when applying small magnetic fields so you won't get a clean magnetic measurement around 0 T B-field.
+
+At T > 400 mK there is probably little difference between the two materials. Please keep in mind that heat transport is also blocked by the ceramic axes used in attocubes Premium Line positioners. Just because the body is conducting well doesn't mean the upper part of the positioner is at base temperature.";Semi-internal;AN* Series;"Original Question: 
+The heat capacity at room temp is a factor of 2 higher and the thermal conductivity a factor of 4 higher for Cu-Be than grade 5 titanium. Do you know how they compare at low (4K) and ultra-low temperature like 12mK?
+Is the Cu-Be option going to transport heat more efficiently towards the floor of the sample space?
+
+Original Ans: 
+Answer SF (27.04.2017):
+We are using titanium grade 2 which is unalloyed titanium. This NIST-publication mentions titanium grade 5 which is alloyed with aluminum and vanadium:
+http://cryogenics.nist.gov/Papers/Cryo Materials.pdf
+Thermal conductivity of Cube is significantly higher even though titanium (grade 5) has only be measured down to 20K. Grade 2 titanium is supposed to have more than twice the thermal conductivity than grade 5 (Wikipedia), so our titanium and our Cube should have about the same thermal conductivity.
+As titanium gets superconducting at T<400mK its thermal conductivity is much lower at mk temperatre than that of Cube. We therefore advise customers working at these temperatures to go for Cube.
+I can't find any data regarding the specific heat of Cube at cryogenic temperatures but your data may well be true also for 4K.
+At T<400mK heat transport in titanium is strongly suppressed due to its superconducting phase. We therefore strongly recommend Cube as it otherwise may take a while to cool down a set of positioners. Furthermore you will get eddy currents when applying small magnetic fields so you won't get a clean magnetic measurement around OT B-field. At T>400mK there's probably little difference between the two materials.
+Please keep in mind that heat transport is also blocked by the ceramic axes used in attocubes Premium Line positioners! Just because the body is conducting well doesn't mean the upper part of the positioner is at base temperature."
+"How good (or poor) is the thermal conductivity through the attocube stack? Does it differ much between Ti & CuBe?	";"In vacuum there is basically no thermalisation of the sample holder through the stack. The metallic pieces of the positioners are separated by the piezo elements which have very poo thermal conductivity. For this reason an ATC is needed. Like we do in the attodry 800. Depending on what the customer wants to measure, sometimes cooling well the sample holder is not so relevant, provided the electrical wires going to the sample are well thermalised. Still, better to use an ATC.
+The material of the positioners makes a difference more on the general stability of the stack due to thermal contraction and the time needed to reach base T, than to which temperature the sample will reach.
+
+CuBe is better than Ti because Ti enters a superconducting phase at mK temperatures, thus does not conduct well heat. CuBe stays a good heat conductor, still with the caveat above. When customer don’t want to buy CuBe and don’t care about Ti becoming superconducting (even though little milliTesla of magnetic field are enough to break this) , we build Ti-posis in DR without problems, eventually using some extra thermalisation foils";Semi-internal;AN* Series;
+Difference between RES and RES+?;"Comparison of RES and RES+ Resistive Materials
+Common Features:
+
+Both RES and RES+ use a wiper and a track with resistive material on a ceramic carrier.
+The wiper design and material are the same for both.
+The carrier material is ceramic in both cases.
+
+RES (Standard Resistive Material)
+
+Material Composition (epoxy-based with embedded particles):
+Carbon powder: 29%
+Vinyl resin: 2.5%
+Phenolic resin: 49.9%
+Butyl carbitol: 18.6%
+Functionality:
+Particles help support the epoxy and prevent the wiper from caving in.
+Acts like a semiconductor at ultra-low temperatures (ULT). Resistance increases significantly below 10 K and becomes extremely high at 1–2 K.
+Nonlinearity: Approximately 1–2 µm
+Heat Dissipation:
+DC: ~80 µW
+AC: ~4 µW
+
+RES+ (Enhanced Resistive Material)
+
+Material Composition: Chromium-nickel thin film applied via PVD (Physical Vapor Deposition)
+Design: Metal wiper on a metal track
+Functionality:
+Behaves like a normal metal. Resistance decreases as temperature drops and remains nearly constant between 0 and 4 K.
+Metal-on-metal contact causes sticking effects, leading to noticeable steps or jumps in movement.
+Nonlinearity: Up to ~20 µm (higher noise)
+Heat Dissipation:
+DC: ~800 µW
+AC: ~135 µW";Semi-internal;AN* Series;
+"Is it possible to offer any std. /RES postioner equipped with a RES+ sensor?	";"In most cases yes. Please see the following page (discussion/entwurf in most cases): List of RES+ std articles
+";Public;AN* Series;https://acs-intranet.wittag.net/content/053aa1f0-81fb-4062-9c96-15c3f409e30a?path=Processes%2FListOfRESStdArticles&title=list-of-res-std-articles
+"Is the travel range dependent on temperature or pressure?	";"For the ANP positioners, rotators and goniometers it is not dependent on that. The scan range of the ANS scanners is however limited at lower temperatures (besides the ANSx150 which has in fact a higher scan range at lower temperatures).
+";Public;AN* Series;
+"Is the maximum load dependent on temperature or pressure?	";"Yes, at lower temperatures as well as in vacuum conditions the maximum load capacity is lowered (compared to ambient conditions).
+";Public;AN* Series;
+"What is the difference between the /HV and /UHV positioners?	";"For the /UHV positioners special UHV compatible (i.e. not outgasing) materials are used. Moreover, a test in a baked out UHV environment is performed for all UHV positioners to guarantee full functionality usually down to 5 x 10^-11 mbar. In general, since switching to PEEK connectors for all AN* series positioners/scanners there is no ""real"" difference in regards to the materials between /HV and /UHV.";Internal;AN* Series;
+What is the difference between /LT and /LT/HV ?;"For older stages before March 2021 when switching to PEEK connectors at all AN* POS and SCN the main differences between the /LT and the /LT/HV positioners are different materials in the wiring and connectors, different materials used in the lubrication, glue, different clamping forces on the guiding rod and additional testing for the LT/HV versions.
+
+We specify the standard low temperature (/LT) version to operate in a pressure range from 1E-4 mbar to ambient pressure, whereas the low temperature/high vacuum (/LT/HV) extends this range down to 1E-8mbar. As the general applicability, we recommend customers to use the standard /LT version if they operate at a pressure higher than 1E-4 mbar before cooling down, even though the cryogenic pressure will be significantly smaller (since outgassing is not an issue at low temperature, the /LT positioner will not worsen the overall pressure). If customers want to achieve high vacuum conditions already at room temperature prior to cool down, then the /LT/HV version is more appropriate.";Semi-internal;AN* Series;
+"What’s the maximum pressure and magnetic field ratings?	";attocube /UHV-positioners are specified down to 5 x 10^-11 mbar and the maximum tested magnetic field is currently 39 T (both on customers side).;Public;AN* Series;
+What is the temperature range for the positioners? Are they bakeable?;There are different attocube ANP positioners specified from the mK range up to 373 K. All UHV positioners can be baked out up to 423 K.;Public;AN* Series;
+"What is meant with ""open loop"" and ""closed loop""?";"The positioners without an encoder are driven in ""open loop"" - those positioners can only be driven forward or backward without an actual readout of the position. Whereas the positioners with an encoder are driven in ""closed loop"" mode, which means that a feedback loop is integrated into the control electronics and minimizes the difference between target position and actual position.";Public;AN* Series;"Further explanation: 
+The closed loop positioners I mentioned in the cost estimate have a resistive encoder which allows us to track the displacement of the positioner independent of the number of steps it has taken. This allows you to translate your sample a set distance with a certain resolution. For example, with the /RES encoders I mentioned in a previous email, you can instruct the positioner to translate 200 micrometers +/- 200 nm. The 1-2 micrometer repeatability means that if you translate the x- positioner 500 micrometers in positive x-direction, and then 500 micrometers in the negative x-direction, you will return to the same position in real space within 1-2 micrometers.
+
+An open loop positioner has no encoder, so all displacements are made in terms of a number of steps of the piezo, and then the actual distance the positioner translates then depends on the step size. A typical minimum step size at 4K is 10 nm, but the step size can vary. The step size does mainly depend on the applied voltage: the step size increases with the amplitude of the saw-tooth signal, but it is not an easy relation to define. The step size is not always uniform and depends on the extension of the positioner (where the positioner is in respect to the end of the movement range). Also, the step size differs for the forward and backward motions due to the properties of the piezo. There are additional environment/setup factors that determine the width of a step (e.g. vacuum, temperature, humidity, load conditions, gravity and orientation of the positioners, etc.). This all makes translating a set distance with an open loop positioner tricky."
+"What's the meaning of ""fine positioning mode""?";"The fine positioning mode is the ""scan""-mode of our positioners. For that, a DC voltage can be applied to obtain sub-step-size resolution. Please note, the ANGs due not feature such a scan mode.";Public;AN* Series;
+Details about the step size?;"
+The step size (in the coarse-positioning mode) does mainly depend on the applied voltage: the step size increases with the amplitude of the saw-tooth signal, but it is not an easy relation to define. The step size is not always uniform, this depends on the extension of the positioner (where the positioner is in respect to the end of the movement range). Also, the step size differs for the forward and backward motions due to the properties of the piezo. There are additional environment/setup factors that determine the width of a step (e.g. vacuum, temperature, humidity, load conditions, gravity and orientation of the positioners, etc.).";Public;AN* Series;"Further Information
+Unfortunately, we don’t have fixed values which relate the applied voltage with the step size; as the step size depends not only on the voltage and temperature, but also on the specific setup, i.e. applied load, mounting orientation, pressure, etc. It can also vary slightly from one positioner to another since the clamping force we set for each positioner might vary slightly as well.
+
+One can estimate the step size by measuring the time (e.g., with a stop watch) it takes for the positioner to travel the entire range (e.g., 2.5mm for ANPz51), from this you have the travel speed, and the travel speed divided by frequency is the average step size.
+
+Unfortunately, we cannot provide more precise information about this, but the friction based working principle simply doesn’t allow us to be more specific."
+What does step repeatability mean?;"The repeatability of step size (in open 0loop mode) means that for a given voltage (and therefore given step size) each individual step may vary in size of up to 5%.
+
+";Public;AN* Series;
+How is the behaviour of the /RES encoder at mK temperatures?;"
+Please note that we have observed that the resistive encoder shows a temperature dependency at ultra-low temperatures (mK range). At this point one solution is to use the stages at mK in a way that individual steps and DC offset (if needed) are applied, and then you would have to wait until the temperature and hence the position readout stabilizes again. Another possible immediate solution would be to position the stages at more elevated temperatures (e.g. at 4K), ground the stages and then cool down to mK temperatures. The reading of the encoder will still change due to the temperature dependency of the resistive sensor element, but if the controller is not trying to compensate for this “alleged” drift in position the stage will actually remain at the same position as positioned at 4K. For mK applications (or better all applications below 1 or 2 K) the /RES+ encoder is recommended.";Semi-internal;AN* Series;
+Why is there an asymmetry in the forward / backward speed of the positioners?;An asymmetry in the forward/backward speed is typical for the slip-stick positioners, since there is an asymmetry in forward and backward step sizes which is typically on the order of 5%. This asymmetry will then also lead to a different speed of the positioner when moving forward/backward with the same voltage/frequency settings.;Public;AN* Series;
+Difference between stepping and scanning?;Our stages offer two working different modes: 1) coarse-positioning: here we apply a saw tooth voltage to the piezo which results in slip-stick motion. At room temperature the typical minimum step size is about 50 nm. The step size can be increased by increasing the voltage. In this mode the positioners have a travel range of several mm (up to 50 mm for the ECS3080 for example). 2) fine-positioning: for this mode we apply a DC voltage which now simply expands the piezo. In this mode the range is limited, e.g. 3.5 µm for the ANPx101 @RT. Within this range you can get sub-nm resolution which is only limited by the noise of the electronics.;Public;AN* Series;
+What is a piezo drift?;"Piezo drift is a composition of creep & thermal drift.
+Thermal drift depends on the change of temperature. The thermal expansion coefficient for a piezo is in the order of 5E-6/K for 300 K and ~4E-3/K for cryogenic environments. Therefore, one can say that minimum changes (especially in ambient conditions) are negligible whereas the cooling down to cryogenic temperatures causes larger (but reproducible) changes in the position.
+
+The respective creep specifications can be found in the spec sheets (e.g. ANSz100: creep = 0.5.. 0.8% per decade of time).";Public;AN* Series;
+Can the positioners be used in liquid helium?;"In principle we cannot give any guarantee for our systems when they are directly immersed into liquid Helium. We do have a lot of customers who are successfully using our positioners in liquid Helium, but then it is very important to avoid condensation and ice on the positioners. Condensed ice will reduce the specs of the operation and worse, in the long run when ice melts into water this will oxidize contacts and affect components as well as piezos (current leakage etc.). In case condensation occurs on the positioners we would recommend that after every warm up cycle the remaining fluid is evaporated (e.g. in an oven with a max. temperature of 100°C) before cooling down again.
+As you see there are too many parameters outside our control and hence we cannot provide a full guarantee. However we know that customers have been using our equipment directly in liquid Helium for several years now and we don’t have any reports on the degradation of our equipment due to the environmental conditions.";Semi-internal;AN* Series;
+Is there a max. wiring resitance for the positioners?;"The total wire resistance all the way from the controller output to the piezo element of the stage and back needs to be as low ohmic as possible in order to ensure the correct and reliable functioning of the stage (via the slip-stick principle). We recommend to keep the total wire resistance for each stage below 2 Ohm, and please note that for closed loop positioners (with the AMC300) 5 Ohm wire resistance should be the absolute max. value of what we can approve (without further testing) for a correct functioning of our stages. If you have any way of lowering the wire resistance it would be beneficial. Also the length should be limited to 5 m (total length from controller to positioner).
+
+See technical note: resistive wiring.pdf";Public;AN* Series;
+"Information on the resonance frequency of the positioners?	";"The resonance frequencies for a specific setup are affected by many factors like e.g. the way of mounting the stages, the load mounted onto the stage(s),…etc. We have tested an ANPxyz101 positioners combination and as you can see in the attached page from our catalog, no resonances in vertical direction occurred below 2.5kHz. For a single ANPx101 (or ANPz101) positioner we have measured the first resonance frequency to be at typically 2kHz, while no load was placed on them (in both cases).
+
+The resonance frequencies for the ANP51 positioners series are however a little bit higher, as you can see on the attached technical note. For instance, the resonance frequency for the ANPz51 positioner (while a load of 25 g is placed on top of it) is ca. 1kHz, while for the ANPz101 (with a similar load on top of it) is clearly below 1 kHz.
+
+See technical note: TN22
+
+""G:\CustomerSuccess\Share\01_Applications\Technical Notes\Technical Notes pdfs\TN22 Cryogenic nanopositioning for vibration sensitive applications.pdf""";Semi-internal;AN* Series;
+What is the max. load of the positioners in various environments?;See Positioner Load in Various Environments: ANP Series;Semi-internal;AN* Series;https://acs-intranet.wittag.net/content/e36a42ee-258d-4f70-bc06-dcfee2439c93?path=Processes%2FPositionerLoadInVariousEnvironments&title=positioner-load-in-various-environments-anp-series
+"What is the max. (tightening) torque for the M2-table-threads of the positioners?	";"After consulting our R&D, they tested the maximum (tightening) torque for the M2-table-threads of your OEM positioners to 35cNm. This should survive more than 20 cycles; in case you need to remount the screws more often, please let us know, then we need to recalculate!
+";Semi-internal;AN* Series;
+What is the usual lifetime (in cycles) of your positioners?;"We do not specifiy our lifetime but we get asked about it quite often from our customers. As the specs project is not done yet, we should all be on the same page regarding the values. Every customer should hear the same answer from us. So please have a look at the table below. Of course the lifetime of the positioner depends on the application. Factors like load, mounting, torque etc all limit the lifetime. The estimated cycle values are with minimal load and for horizontal mounting. Please keep in mind it is just an estimated value and no specification!For AN*101 and AN*51:
+
+At room temperature (RT): 100,000 cycles
+In vacuum (Vac): 100,000 cycles
+At low temperature (LT): Minimum 20,000 cycles
+For AN*3xx:
+
+At room temperature (RT): 70,000 cycles without any issues; up to 120,000 cycles possible if drive failure occurs
+In vacuum (Vac): 30,000 cycles without any issues; up to 60,000 cycles possible if drive failure occurs
+At low temperature (LT): 50,000 cycles without any issues; up to 80,000 cycles possible if drive failure occurs";Semi-internal;AN* Series;
+What bending radius can be done to the twisted pair or RES cabling?;Bending the cable around a diameter 3mm or 1/8” rod (e.g. screwdriver shaft) is fine, resulting in a bend radius of >1.5mm. This is for static bends that are not moved or regularly rebent.;Public;AN* Series;
+how to use the RES sensor for scanning?;see file (2).png;Public;AN* Series;
+"What is the estimated heat dissipation of the RES/Res+ sensor? 	";"The following values are only theoretically calculated.  Losses are calculated as P = U^2/R with 2V for the ANC350 and resistances typical for RES and RES+ elements. About 800µW+ RES and 80µW RES with ANC350 and AMC300 DC. The AMC300 with AC should reduce that significantly: RES+ 135µW; RES 4µW";Semi-internal;AN* Series;
+What is the scanner range and voltage limit with respect to temperature?;"This answer needs to be checked by PM and/or MAS RnD. It is just a first collection of information.
+
+The scanner range and voltage limit depend on temperature in a non-linear way. A calculator tool can be found at
+G:\CustomerSuccess\Share\01_Applications\Step-by-Step Guides
+
+Temperature-Voltage-Range Interpolation_v2.2.xls
+
+Voltage limits
+RT         0V to 60V (downstream amplifier)
+
+LT (4K) 0V to 150V (downstream amplifier)";Semi-internal;AN* Series;
+What materials are the positioners made of?;Ti grade 2, CuBe (e.g. preload screw) , Cu & Kapton (cable), PZT ceramik, Zikonoxyd, Peek. ANG: Macor ceramik. Coatings and glues are secret;Public;AN* Series;
+How does the RES resistance change with temperature?;"The resistance is slightly and about linearly rising with lower temperatures. At temperatures around 4K it increases exponentially.
+";Semi-internal;AN* Series;
+"Whats the difference between variants (RT, LT, LT/HV)?	";"no difference in mechanics, only differnet testing/warranty
+";Internal;AN* Series;
+"AN Peek connectors	";"2pin male 1021500
+
+2pin female 1021499
+
+3pin male 1021498
+
+3pin female 1021497";Public;AN* Series;
+magnetic field of positioners;Example measurement of a customer on an ANGt101: magnetic field produced by the goniometer is ≤ 1 × 10−7 mT;Semi-internal;AN* Series;
+Paralellität und Toleranzen (parallel and tolerances);"ANPx311 Parallelität Montagefläche-Oben zur Montagefläche-Unten: Innerhalb ~0,04mm
+
+ANPx311 max. Abweichung der Gesamthöhe: ~±0,15mm";Semi-internal;AN* Series;
+RES position difference/shift RT-LT;The shift in RES readout between RT and LT is not fully systematic and can be up to 200µm. It is depending on the positioner and on the position. It can not be tuned or adjusted.;Internal;AN* Series;
+BeCu ULT CuBe - nomenclature and variants;see attached image;Internal;AN* Series;
+"Is there more information on the specifications of the wires? 	";"Yes, please find the wire specifications here (AWG 32, Grad 2): Wire_Specifications.pdf
+";Internal;AN* Series;
+What are the advantages of the EC* Series compared to competitor solutions?;"Extensive comparisons with main competitors (strictly internal!):
+
+Smaract: POS_Competitor_Overview_Smaract.pdf
+PI: POS Competitors PI focus.pptx
+ (also general overview)
+Stated information, which is not officially specified only acts as orientation. Reliable information can only be provided for the customer specific application/setup.";Internal;EC* Series;
+What is the difference between the AN* Series and the EC* Series?;The ECS series is a dedicated industrial series which is bearing based, cost efficient and convinces with a rugged design and high load capacities. The ECS/RT models are made out of aluminum and the ECS/(U)HV out of stainless steel. The ANP series is more research focused with smaller footprints and a nonmagnetic positioner body out of titanium.;Public;EC* Series;
+Is there a video explaining the working principle of EC* and AN* Series?;Yes, you can use the following animated powerpoint to show the working principle: working principle_attocube positioners.pptx;Public;EC* Series;
+"What is meant with ""open loop"" and ""closed loop""?";"The positioners without an encoder are driven in ""open loop"" - those positioners can only be driven forward or backward without an actual readout of the position. Whereas the positioners with an /NUM or /RES encoder are driven in ""closed loop"" mode, which means that a feedback loop integrated into the control electronics minimizes the difference between target position and actual position.";Public;EC* Series;
+What is the difference between NUM and NUM+?;The NUM+ encoder features a reduced thermal dissipation of only 50 mW making it especially suited for /HV and /UHV positioners. The necessary amplifier has been detached from the sensor itself and placed in the connector of the cable outside of the vacuum chamber.;Public;EC* Series;
+What is the difference between the /HV und /UHV positioners?;For the /UHV positioners special UHV compatible (i.e. not outgasing) materials are used. Moreover, a test in a baked out UHV environment is performed for all UHV positioners to guarantee full functionality usually down to 5x10-11 mbar. Please note, our ECS series rotators and goniometers are specified for 10-9 mbar due to a special UHV compatible grease.;Public;EC* Series;
+What is the temperature range for the positioners? Are they bakeable?;All attocube open loop positioners and all closed loop positioners of the ANP series (/RES & /RES+) are specified from 0°C to 100°C (dedicated low temperature positioners are specified down to the mK range). ECS positioners with a /NUM encoder work up to a temperature of 50°C (/NUM+ up to 55°C). All UHV positioners can be baked out up to 150°C.;Public;EC* Series;
+Are the positioners compatible to ozone (O3) environments?;No: Standard positioners are not compatible. Electrical contacts and tribology will be affected in unpredictable ways.;Public;EC* Series;
+What is the max. load of the positioners in various environments?;See Positioner Load in Various Environments: ECS Series;Internal;EC* Series;https://acs-intranet.wittag.net/content/afe9eb6e-610b-4575-b828-90162a4f22f8?path=Processes%2FPositionerLoadInVariousEnvironmentsIndustrialLine&title=positioner-load-in-various-environments-ecs-series
+How are the positioners grounded?;Our positioners are not grounded through wiring or else, the customer has to ground them e.g. through the screws by screwing them on an appropriate mounting plate.;Public;EC* Series;
+What is the max. (tightening) torque for the M2-table-threads of the positioners?;"After consulting our R&D, they tested the maximum (tightening) torque for the M2-table-threads of your OEM positioners to 35Ncm. This should survive more than 20 cycles; in case you need to remount the screws more often, please let us know, then we need to recalculate!";Public;EC* Series;
+Can you explain the different notions of force regarding your positioners' specs?;"In general there are four different specifications regarding force:
+
+Load
+- How much load can be put on the positioner when mounted horizontal (x positioner mounted in std. orientation.
+- Max. load also can decrease lifetime, speed, etc. and increase particle abrasion
+- E.g. ECSx3030 is specified for 90 N, ECSz3030 for 8 N
+Lifting Capability
+- How much weight a x-positioner can move when mounted vertically (moving against gravity), or a z-positioner horizontally mounted (moving against gravity - as intended)
+- E.g. ECSx3030 with 1 N or ECSz3030 with 8 N
+Dynamic blocking force
+- In most cases the same value as lifting capability
+- Dynamic force / output of the piezo drive in x-direction
+--> at attocube we define the dynamic drive force which is defined as the lifting capability and dynamic blocking force
+- E.g. for ECSx3030 it is 1 N and for ECSz3030 it is 8 N
+Static blocking force
+- Needs to be higher than dynamic blocking force
+- How much force (N) can the table of the positioner withstand when pressed ahainst moving direction
+- E.g. for ECSx positioners in most cases 4 N";Public;EC* Series;
+What is the usual lifetime (in cycles) of your positioners?;"In general the lifetime is depending on lots of factors (like loads, forces, center of mass, etc) and therefore cannot be specified plainly.
+
+For the ECS5050 Series we expect with max. specified load (centrally mounted, with the positioner mounted horizontally) the following values. Please note that the large span is caused by our currently still uncertain production process. With reduced loads the lifetime can increase (up to factor 2), due to less friction during overcoming the interia due to the load. Please contact AppDev/PM for demanding applications.
+
+Positioner          Expected lifetime / cycles
+
+ECSx5050           80 - 180k
+ECGt5050           80 - 180k
+ECR5050hs        100 - 150k
+ECSz5050 (v3)    25 - 50k";Internal;EC* Series;
+What magentic materials are used in EC* positioners?  Can we make it non-magnetic ?;"Utilized steel:
+
+Positioner body: 1.4404
+Guides: 1.4034 or 1.4112 or 1.4125 (depending on specific supplier. All 1.40xx and 1.41xx are martensitic steels and therefore have more pronounced magnetic properties)
+Cages 1.4301
+The magnetic suitability has to be defined for a specific application.
+
+Non-magnetic positioners:
+
+It is possible to create non-magnetic EC* positioners by using ceramic guides (significant price increase expected).";Internal;EC* Series;
+Are the EC* positioners clean room compatible?;"Yes the ECSx5050/Al/NUM/RT was tested and certified by Fraunhofer Institue: Air Cleanliness Class 6 (see official Certificate
+)
+
+The results are based on the test of 3 positioners: 2 x cleanliness class 5; 1 x cleanliness class 6
+
+This resulted in an overall Class 6, however we are optimistic that most of our positioners could at least reach Class 5.";Public;EC* Series;
+Is there an estimate on the total heat impact / thermal dissipation of an EC* Series positioner?;"There are three different sources of heat dissipation in an EC* Series positioner:
+
+1. Heat from piezo activation
+
+Can be estimated using , where C is the piezo capacitance, U the driving voltage, f the driving frequency, and tan(δ) is the loss factor.
+The relevant factors depend a bit on the specific operating environment, but typical values are:
+C      1.1 µF at ambient conditions
+U      20 - 45 V
+f      1 - 2 kHz
+tan(δ)   1.5 %
+
+This yields an estimate for the heat from piezo activation of ~ 30 - 50 mW.
+2. Heat from friction
+
+Can be estimated according to Power equations: P=F⋅x⋅fP=F⋅x⋅f or P=F⋅vP=F⋅v  , where F is the holding force, x the distance, f the driving frequency, and v the velocity.
+We estimate the holding force F to lie around 5 N at ambient conditions.
+This yields an estimate for the heat from firction of ~ 10 - 20 mW.
+3. Heat from position encoder (NUM, NUM+ sensor)
+
+The optoelectric sensor contributes most of the heat to the system.
+The NUM sensor is specified with 300 mW
+The NUM+ sensor is specified with 50 mW.
+Total heat impact
+
+Adding the above sources, one finds the total heat impact of the positioner to lie around
+300 - 400 mW with a NUM sensor and 80 - 120 mW with the NUM+ sensor.
+
+Notice that this calculation is a theoretical estimation. Also, it does not factor in any heat dissipation through the cabling.";Public;EC* Series;
+Do the NUM sensors show Non-Linearities?;"Yes, based on one measurement (ECSx3030) the non-linearities are expected to be around +-200 nm. (this only affects the aboslute accuracy, but not the repeatability)
+Comparable non-linearities can be expected in any kind of NUM sensor/Encoder for nanopositioners, also the ones of our competitors.";Internal;EC* Series;
+"How is the ""wobble"" of a rotator defined?";"Wobble is the position-dependent angular misalignment of the real axis of rotation relative to its ideal axis. Wobble is often cyclic in nature and is caused by the imperfect nature of mechanical components. It is defined for one full rotation (360°) and does not include any static offset of the rotating axis to an interface or mounting plate.
+
+Positioner                 Wobble
+ECR3030/NUM/Al   <0,7 mrad
+ECR4040/NUM        <0,7 mrad
+ECR5050/NUM        <1 mrad";Public;EC* Series;
+"How is the ""wobble"" of a rotator measured?";"The ECR/NUM series has been tested with our testbench""Randy"" over the last years. After data collection and evaluation, we are now able to specify ""wobble"" values for these positioners. This will be tested as part of outgoing quality control, the specifications listed below already include a factory of saftey. Please note that we are only able to test and specify closed loop (/NUM) versions.
+
+
+
+We define the wobble as the bigger peak to peak value of either pitch or roll for one full rotation.
+
+This is based on having 3 sensor heads, mounted along a fixed XYZ coordinate system above the rotator, measuring the Z component deviations during the rotation. With the values of two out of these 3 sensor heads we get the pitch value and the roll value respectively, as well as the hight deviation along Z from all 3 sensor heads. The result is a measurement as shown in the screenshot on the right.";Public;EC* Series;
+Flatness tolerance of EC* positioner top;"Generally max. 0,01mm (based on drwaing, but not proven)
+
+(The flatness tolerance of the positioner tables top is relevant for accurate mounting/stacking of the positioners) ";Internal;EC* Series;
+What lubricant is used for the EC* positioners?;All EC* positioners use Ultratherm 2000 (independent RT, HV, UHV);Internal;EC* Series;
+How can you calculate the current provided to the piezo?;"A feedthorugh should allow an average current at least 2A.
+
+internal:
+
+(at least 2-3 times the piezo RMS current)
+
+To select e.g. the right electrical feedthrough the most important value is RMS current and it can be calculated with Current to Piezo_Calculation.xlsx.";Public;EC* Series;
+What is the bending radius of EC* positioner cables?;"The following information is just a rough orientation (detailed testing ongoing)
+
+EC*/RT:
+
+12 mm (static)
+33 mm (dynamic)
+
+Strictly Internal information: Cable Specsheet_ECseries_RT.pdf";Public;EC* Series;
+What glue is used for the EC* series?;"here are different and multiple types of glues used for individual EC* positioners. This is a very general overview based on the positioner environment:
+
+HV: Epotek H77, 377, TX2
+RT: Epotek H77, 377, TX2; UHU Endfest, (and sometimes Schnellfest)
+If this Internal information needs to be provided to a special OEM customer (even with NDA) contact PM first.  ";Internal;EC* Series;
+Is there information about the radiation robustness of the EC* Positioners?;here is no information specifically for the EC* Positioners. There are only old (2008) tests results for a AN* Positioner in a neutron source experiment. This can just offer a very rough orientation about our piezo slip stick drive in radiation harsh environment: NeutronSourceExperiment.pdf;Public;EC* Series;
+Is there a positioner cabling option for the EC* suitable for Lemo feedthorughs?;"Yes. For OEM or bigger orders it is possible to provide positioner (and also AMC) cabling with special Yamaichi connectors, which are compatible to specific Lemo feedthorughs (= cust. special):
+
+Yamaichi connector positioner cable (inside VAC)
+Lemo feedthrough
+(Yamaichi connector AMCC cable)
+Please note, that this combination is only suitable for HV applications (not UHV)";Public;EC* Series;"Further internal information:
+
+Positioner cable: YCP-BPB12ACX-14MSCBX-031X
+AMCC cable: YCP-BPB12LCX-14FSCBX-061X"
+What are the holding forces of our positioners?;We do not specify the holding force, but we adjust it for each positioner based on the folling values during the production process: HK_Einstellen.pdf;Internal;EC* Series;
+What is the maximum relative humidity at which the positioners can be used at room temperature?;"The maximum relative humidity to use our positioners is 70%.
+
+Experience shows that the lifetime is lowered drastically (failure after <1k cycles). The humidity could lead to condensation, which can cause other problems.";Public;EC* Series;
+What wavelength does the NUM sensor utilize?;It utilizes a LED with a wavelength of 860 - 890 nm (deviations due to production process).;Public;EC* Series;
+How does the grease affect the vacuum compatibility of the EC* positioners?;"UHV linear positioners:
+
+A non-gasing/non-evaporating coating (dycronite) is used and they are specified down to 10-11 mbar. This coating is not compatible with our current ECGs and ECRs.
+
+UHV rotators and goniometers:
+
+UHV versions of the rotators and goniometers of our ECS-Series are only specified down to 10-9 mbar and not down to 10-11 mbar as the linear ECS positioners. The limitation is caused by the used grease (Ultratherm). It is not possible built up an ECR without grease. The vapor pressure of the grease is temperature-dependent:
+
+Vapor pressure at 100°C       1 · 10-8 hPa / 7.5 · 10-9 Torr / 1 · 10-8 mbar
+Vapor pressure at 20°C       1 · 10-12 hPa / 7.5 · 10-13 Torr / 1 · 10-12 mbar
+Vapor pressure at 200°C       1 · 10-5 hPa / 7.5 · 10-6 Torr / 1 · 10-5 mbar
+Vapor pressure at 250°C       1 · 10-4 hPa / 7.5 · 10-5 Torr / 1 · 10-4 mbar
+Lubricating capacity          good/ very good
+Temperature range               -60 – 280 °C / -76-536 °F / 213-553K
+
+If a customer wants to bake out, they could do that, but it would lead to a ""dirty"" vacuum chamber due to the high outgassing rate.
+If you do have a customer who needs pressure down to 10-11 mbar, please contact ST and we will try our best to find a solution.";Internal;EC* Series;
+Are there additional information or specs about the EC* (U)HV fiber glass positioner cable?;"Static: Bending radius of 5mm (R5)
+
+Dynamic: Bending radius of 25mm (R25) but without guarantee (just orientation). The fiber glass cable is not suitable for real dynamic movement, although it is used in stacks that move. The cable has a diameter of approximately 2mm and is very soft, lacking dimensional stability.";Public;EC* Series;
+What is the max. ECU cable length? ;"
+
+
+Currently the max. length is limited to 5m (April 2023).
+
+
+However, a customization is possible to increase the length to 15m (ask PM). This design improvement will be implemented as a standard within the next months.
+";Public;ECU;
+Is the ECU ANSI Z540 or ISO17025 compliant?;"
+ANSI Z540 is the US standard for calibrations, the european equivalent is the ISO17025.  ISO17025 essentially covers all the requirement of ANSI/NSCL Z540.3 except for Z540.3 Section 5.3 (b)(see also:https://www.transcat.com/iso17025-vs-ansiz540). The reference ECUs are ISO17025 compliant, but not the ones, that calibrated internally.
+";Public;ECU;
+Is there a Python script to read out the information from the ECU?;"
+Here, you can find a script that returns the humidity, pressure, temperature and refractive index with a time stamp as a .txt file.
+ 
+";Public;ECU;
+" What is the power consumption of the ECU during a measurement?	";"
+ The power consumption of the ECU during the measurement is approx. 25 mW.
+";Public;ECU;
+Do angular tips/tilts of a retroreflector affect the accuracy?;"
+
+Based on calculations there is no length difference between the tilted and untilted beam. For futher information see:  
+
+Calculation Tilted retroreflector.pdf
+
+
+
+";Public;Targets;
+Where is the reference position of the RT retroreflector of an absolute distance measurement?;"
+The following figure shows this position, which is 14 mm inside of the front side of the RT retroreflector
+
+";Public;Targets;
+What specifications do we recommend for a mirror on which measurements are performed?;"
+Surface Flatness:  λ/4 or better (like λ/10)
+Scratch-Dig Values: 60-40 (precise) or 20-10 (highly precise)
+";Public;Targets;
+Are the OVFTs RAD compatible?;"
+There is no definite information regarding the radiation harshness of the vacuum feedthroughs, but the ""pure silica fiber"" used should be well suited for RAD environment.  
+
+
+";Internal;Optical Vacuum Feedthroughs (OVFTs);
+Is there a Spec Sheet for the OVFTs?;"
+
+
+There is no attocube Spec Sheet yet, but this is the supplier information:
+
+
+";Public;Optical Vacuum Feedthroughs (OVFTs);
+Is there a Spec Sheet for the OVFTs?;"
+
+
+
+There is no attocube Spec Sheet yet, but this is the supplier information:
+
+
+";Internal;Optical Vacuum Feedthroughs (OVFTs);
+Min./Max. length and tolerances of standard metal tubed fiber for extreme environments (LT/HV/UHV/RAD)?;"
+length: 0.2 - 30m (tolerance: +0.1m, -0.0m)
+";Public;Fibers, Connectors and Cables;
+What are the differences of single mode fibers for the IDS and the FPS?;"
+There are only signifcant differences for the RT fiber versions The IDS requires a SC/APC connector, the FPS requires a FC/APC connectorThe RT fiber of the IDS is much more robust and thicker (=3 mm PVC jacket) while the FPS is more fragile (=900µm PVC or hytrel tubing)
+For detailed information about the FPS fibers please refer to the old SMF 
+Spec Sheet";Semi-internal;Fibers, Connectors and Cables;
+What are the differences of single mode fibers for the IDS and the FPS?;"
+There are only signifcant differences for the RT fiber versions The IDS requires a SC/APC connector, the FPS requires a FC/APC connectorThe RT fiber of the IDS is much more robust and thicker (=3 mm PVC jacket) while the FPS is more fragile (=900µm PVC or hytrel tubing)
+For detailed information about the FPS fibers please refer to the old SMF 
+Spec Sheet";Semi-internal;Fibers, Connectors and Cables;
+"What are the differences of single mode fibers for the IDS and the FPS?	";"
+There are only signifcant differences for the RT fiber versions The IDS requires a SC/APC connector, the FPS requires a FC/APC connectorThe RT fiber of the IDS is much more robust and thicker (=3 mm PVC jacket) while the FPS is more fragile (=900µm PVC or hytrel tubing)
+For detailed information about the FPS fibers please refer to the old SMF 
+Spec Sheet
+
+
+
+
+
+";Semi-internal;Fibers, Connectors and Cables;
+"What are the differences of single mode fibers for the IDS and the FPS?	";"
+
+There are only signifcant differences for the RT fiber versions
+
+
+
+The IDS requires a SC/APC connector, the FPS requires a FC/APC connector
+
+The RT fiber of the IDS is much more robust and thicker (=3 mm PVC jacket) while the FPS is more fragile (=900µm PVC or hytrel tubing)
+
+For detailed information about the FPS fibers please refer to the old SMF
+
+
+
+Spec Sheet
+
+
+
+";Semi-internal;Fibers, Connectors and Cables;
+"What is the numerical aperture of the fibers you are using?	";"
+The supplier lists the NA as Numerical Aperture: 0.14.
+Internal:
+We are using standard SMF-28 Fibers 
+The Corning data sheet provides for the fiber we used NA_1% = 0.14,
+which can be converted to the 1/e^2 power level usingNA_1/e^2 = NA_1% * sqrt((2/ln (100))).
+";Semi-internal;Fibers, Connectors and Cables;
+Difference between wide and narroy key?;"
+All FC/APC and FC/PC connectors are equipped with narrow key having a width of 2.0mm.
+(additional info: While a plug with narrow key is compatible to a slot with wide key (2.2 mm), a wide key plug does not fit a narrow key slot)";Public;Fibers, Connectors and Cables;
+"What materials are the bare HV and UHV fibers made of? (= fibers without metal armor)	";"
+
+1010850 – UHV bare fiber
+
+
+
+155 µm Polyimide coating (around 9/125 µm glass fiber)
+
+Outgassing properties for UHV: Max. TML =1.0%Max. CVCM = 0.10%
+
+Connectors: Nickel plated brass (+ Polymide tube)
+
+1010658 – HV bare fiber
+
+
+
+250 µm Acrylate coating (around 9/125 µm glass fiber)
+Connectors: Nickel plated brass (+ Polymide tube)
+";Public;Fibers, Connectors and Cables;
+"What are the differences of single mode fibers for the IDS and the FPS?	";;Semi-internal;Fibers, Connectors and Cables;
+"What are the differences of single mode fibers for the IDS and the FPS?	";;Semi-internal;Fibers, Connectors and Cables;
+Is there an Adapter Plate (M15.5x0,5 on SM1) to mount a sensor head with FLEX structure into a standard SM1 Thorlabs mount?;"
+Yes, but this article is not yet in our standard portfolio as customers usually don´t need the FLEX structure (M15.5) if they anyway have to use a SM1 kinematic mount. 
+Customers can directly buy it from Thorlabs: SM1AD15 - Externally SM1-Threaded Adapter for Ø15 mm Optic, 0.40"" Thick
+";Public;Optical Mounts;
+Are there informations about the cleanliness-class of the fibers?;"
+For the following articles are no informations about the cleanliness available:IDSMF/HV/LTIDSMF/UHVIDSMF/RAD";Public;Fibers, Connectors and Cables;
+Are there further potentially useful mounts directly availbale at Thorlabs?;"
+In general, Thorlabs offers a magnitude of useful mounts and accessories for our fiber based laser interferometer and we extensively use them internally. However it doesn´t make sense to dublicate large parts of the portfolio (with higher prices), so here are some recommendations which mounts customers can/should directly by at Thorlabs (list will grow):SM1AD15 - Externally SM1-Threaded Adapter for Ø15 mm Optic, 0.40"" Thick5-Axis Kinematic Mount
+";Public;Optical Mounts;
+Does this Test Question show up?;"
+If you see this, yes it does!";Public;"EC* Series;#x3030";

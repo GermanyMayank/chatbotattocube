@@ -1,0 +1,2073 @@
+[
+  {
+    "id": "1020767",
+    "model": "IDSH/M12/C1.6/RT (with filter)",
+    "category_path": "Sensing > Sensor Head > M12/C1.6",
+    "attributes": {
+      "Optics type": "Collimating",
+      "Dimensions": "Ø 14 mm, length 17.4 mm",
+      "Weight": "5.1 g",
+      "Mounting": "Metric M12 x 0.5",
+      "Beam diameter": "1.6 mm",
+      "Focal length": "Infinity",
+      "Connector": "FC/PC",
+      "Working range (target: retroreflector)": "Up to 1000 mm",
+      "Lateral tolerance (target: retroreflector)": "± 0.5 mm",
+      "Angular tolerance (target: retroreflector)": "± 6°",
+      "Pressure": "Ambient pressure",
+      "Temperature range": "0 .. 50°C",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "–",
+      "Fiber": "IDS-sensor head IDSMF/PC/RT (1009980)",
+      "Fiber feedthrough-sensor head": "–",
+      "Number of axes": "1",
+      "Attenuator": "Connector SC/APC, Attenuation: 1 dB"
+    },
+    "text": "Category: Sensing > Sensor Head > M12/C1.6. Model: IDSH/M12/C1.6/RT (with filter). ID: 1020767. Optics type: Collimating. Dimensions: Ø 14 mm, length 17.4 mm. Weight: 5.1 g. Mounting: Metric M12 x 0.5. Beam diameter: 1.6 mm. Focal length: Infinity. Connector: FC/PC. Working range (target: retroreflector): Up to 1000 mm. Lateral tolerance (target: retroreflector): ± 0.5 mm. Angular tolerance (target: retroreflector): ± 6°. Pressure: Ambient pressure. Temperature range: 0 .. 50°C. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: –. Fiber: IDS-sensor head IDSMF/PC/RT (1009980). Fiber feedthrough-sensor head: –. Number of axes: 1. Attenuator: Connector SC/APC, Attenuation: 1 dB."
+  },
+  {
+    "id": "1020766",
+    "model": "IDSH/M12/C1.6/LT/HV (with filter)",
+    "category_path": "Sensing > Sensor Head > M12/C1.6",
+    "attributes": {
+      "Optics type": "Collimating",
+      "Dimensions": "Ø 14 mm, length 17.4 mm",
+      "Weight": "5.1 g",
+      "Mounting": "Metric M12 x 0.5",
+      "Beam diameter": "1.6 mm",
+      "Focal length": "Infinity",
+      "Connector": "FC/PC",
+      "Working range (target: retroreflector)": "Up to 1000 mm",
+      "Lateral tolerance (target: retroreflector)": "± 0.5 mm",
+      "Angular tolerance (target: retroreflector)": "± 6°",
+      "Pressure": "1E-8 mbar .. 5 bar",
+      "Temperature range": "mK .. 423K",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "IDSMF/LT/HV metal tubing (1015965)",
+      "Number of axes": "1",
+      "Attenuator": "Connector SC/APC, Attenuation: 1 dB"
+    },
+    "text": "Category: Sensing > Sensor Head > M12/C1.6. Model: IDSH/M12/C1.6/LT/HV (with filter). ID: 1020766. Optics type: Collimating. Dimensions: Ø 14 mm, length 17.4 mm. Weight: 5.1 g. Mounting: Metric M12 x 0.5. Beam diameter: 1.6 mm. Focal length: Infinity. Connector: FC/PC. Working range (target: retroreflector): Up to 1000 mm. Lateral tolerance (target: retroreflector): ± 0.5 mm. Angular tolerance (target: retroreflector): ± 6°. Pressure: 1E-8 mbar .. 5 bar. Temperature range: mK .. 423K. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: IDSMF/LT/HV metal tubing (1015965). Number of axes: 1. Attenuator: Connector SC/APC, Attenuation: 1 dB."
+  },
+  {
+    "id": "1022886",
+    "model": "IDSH/M12/C1.6/LT/UHV/RAD (with filter)",
+    "category_path": "Sensing > Sensor Head > M12/C1.6",
+    "attributes": {
+      "Optics type": "Collimating",
+      "Dimensions": "Ø 14 mm, length 17.4 mm",
+      "Weight": "5.1 g",
+      "Mounting": "Metric M12 x 0.5",
+      "Beam diameter": "1.6 mm",
+      "Focal length": "Infinity",
+      "Connector": "FC/PC",
+      "Working range (target: retroreflector)": "Up to 1000 mm",
+      "Lateral tolerance (target: retroreflector)": "± 0.5 mm",
+      "Angular tolerance (target: retroreflector)": "± 6°",
+      "Pressure": "1E-10 mbar .. 5 bar",
+      "Temperature range": "0 .. 150°C",
+      "Radiation": "Up to 10 Mgy radiation dose",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "IDSMF/UHV metal tubing (1016354)",
+      "Number of axes": "1",
+      "Attenuator": "Connector SC/APC, Attenuation: 1 dB"
+    },
+    "text": "Category: Sensing > Sensor Head > M12/C1.6. Model: IDSH/M12/C1.6/LT/UHV/RAD (with filter). ID: 1022886. Optics type: Collimating. Dimensions: Ø 14 mm, length 17.4 mm. Weight: 5.1 g. Mounting: Metric M12 x 0.5. Beam diameter: 1.6 mm. Focal length: Infinity. Connector: FC/PC. Working range (target: retroreflector): Up to 1000 mm. Lateral tolerance (target: retroreflector): ± 0.5 mm. Angular tolerance (target: retroreflector): ± 6°. Pressure: 1E-10 mbar .. 5 bar. Temperature range: 0 .. 150°C. Radiation: Up to 10 Mgy radiation dose. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: IDSMF/UHV metal tubing (1016354). Number of axes: 1. Attenuator: Connector SC/APC, Attenuation: 1 dB."
+  },
+  {
+    "id": "1011397",
+    "model": "IDSH/M12/C7.6/LT/HV",
+    "category_path": "Sensing > Sensor Head > M12/C7.6",
+    "attributes": {
+      "Optics type": "Collimating",
+      "Dimensions": "Ø 14 mm, length 49.3 mm",
+      "Weight": "12.9 g",
+      "Mounting": "Metric M12 x 0.5",
+      "Beam diameter": "7.6 mm",
+      "Focal length": "Infinity",
+      "Connector": "FC/PC",
+      "Working range (target: retroreflector)": "Up to 5000 mm",
+      "Lateral tolerance (target: retroreflector)": "± 2 mm",
+      "Angular tolerance (target: retroreflector)": "± 15°",
+      "Pressure": "1E-8 mbar .. 5 bar",
+      "Temperature range": "mK .. 423 K",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "IDSMF/LT/HV metal tubing (1015965)",
+      "Number of axes": "1",
+      "Attenuator": "Connector SC/APC, Attenuation: 1 dB"
+    },
+    "text": "Category: Sensing > Sensor Head > M12/C7.6. Model: IDSH/M12/C7.6/LT/HV. ID: 1011397. Optics type: Collimating. Dimensions: Ø 14 mm, length 49.3 mm. Weight: 12.9 g. Mounting: Metric M12 x 0.5. Beam diameter: 7.6 mm. Focal length: Infinity. Connector: FC/PC. Working range (target: retroreflector): Up to 5000 mm. Lateral tolerance (target: retroreflector): ± 2 mm. Angular tolerance (target: retroreflector): ± 15°. Pressure: 1E-8 mbar .. 5 bar. Temperature range: mK .. 423 K. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: IDSMF/LT/HV metal tubing (1015965). Number of axes: 1. Attenuator: Connector SC/APC, Attenuation: 1 dB."
+  },
+  {
+    "id": "1011398",
+    "model": "IDSH/M12/C7.6/LT/UHV/RAD",
+    "category_path": "Sensing > Sensor Head > M12/C7.6",
+    "attributes": {
+      "Optics type": "Collimating",
+      "Dimensions": "Ø 14 mm, length 49.3 mm",
+      "Weight": "12.9 g",
+      "Mounting": "Metric M12 x 0.5",
+      "Beam diameter": "7.6 mm",
+      "Focal length": "Infinity",
+      "Connector": "FC/PC",
+      "Working range (target: retroreflector)": "Up to 5000 mm",
+      "Lateral tolerance (target: retroreflector)": "± 2 mm",
+      "Angular tolerance (target: retroreflector)": "± 15°",
+      "Pressure": "1E-10 mbar .. 5 bar",
+      "Temperature range": "0 .. 150°C",
+      "Radiation": "Up to 10 Mgy radiation dose",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "IDSMF/UHV metal tubing (1016354)",
+      "Number of axes": "1",
+      "Attenuator": "Connector SC/APC, Attenuation: 1 dB"
+    },
+    "text": "Category: Sensing > Sensor Head > M12/C7.6. Model: IDSH/M12/C7.6/LT/UHV/RAD. ID: 1011398. Optics type: Collimating. Dimensions: Ø 14 mm, length 49.3 mm. Weight: 12.9 g. Mounting: Metric M12 x 0.5. Beam diameter: 7.6 mm. Focal length: Infinity. Connector: FC/PC. Working range (target: retroreflector): Up to 5000 mm. Lateral tolerance (target: retroreflector): ± 2 mm. Angular tolerance (target: retroreflector): ± 15°. Pressure: 1E-10 mbar .. 5 bar. Temperature range: 0 .. 150°C. Radiation: Up to 10 Mgy radiation dose. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: IDSMF/UHV metal tubing (1016354). Number of axes: 1. Attenuator: Connector SC/APC, Attenuation: 1 dB."
+  },
+  {
+    "id": "1013382",
+    "model": "IDSH/M12/F40/RT",
+    "category_path": "Sensing > Sensor Head > M12/F40",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 14 mm, length 19.5 mm",
+      "Weight": "5.1 g",
+      "Mounting": "Metric M12 x 0.5",
+      "Focal length": "40 mm",
+      "Beam diameter at focal point": "~ 45 µm",
+      "Connector": "FC/PC",
+      "Working range (target: glass)": "38.5 .. 41.5 mm",
+      "Angular tolerance (target: glass)": "± 0.35°",
+      "Working range (target: mirror)": "46 .. 50 mm",
+      "Angular tolerance (target: mirror)": "± 0.35°",
+      "Fiber connection": "Screwed",
+      "Pressure": "Ambient pressure",
+      "Temperature range": "0 .. 50°C",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "–",
+      "Fiber": "IDS-sensor head IDSMF/PC/RT (1009980)",
+      "Fiber feedthrough-sensor head": "–",
+      "Number of axes": "1",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > M12/F40. Model: IDSH/M12/F40/RT. ID: 1013382. Optics type: Focusing. Dimensions: Ø 14 mm, length 19.5 mm. Weight: 5.1 g. Mounting: Metric M12 x 0.5. Focal length: 40 mm. Beam diameter at focal point: ~ 45 µm. Connector: FC/PC. Working range (target: glass): 38.5 .. 41.5 mm. Angular tolerance (target: glass): ± 0.35°. Working range (target: mirror): 46 .. 50 mm. Angular tolerance (target: mirror): ± 0.35°. Fiber connection: Screwed. Pressure: Ambient pressure. Temperature range: 0 .. 50°C. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: –. Fiber: IDS-sensor head IDSMF/PC/RT (1009980). Fiber feedthrough-sensor head: –. Number of axes: 1. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1013444",
+    "model": "IDSH/M12/F40/LT/HV",
+    "category_path": "Sensing > Sensor Head > M12/F40",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 14 mm, length 19.5 mm",
+      "Weight": "5.1 g",
+      "Mounting": "Metric M12 x 0.5",
+      "Focal length": "40 mm",
+      "Beam diameter at focal point": "~ 45 µm",
+      "Connector": "FC/PC",
+      "Working range (target: glass)": "38.5 .. 41.5 mm",
+      "Angular tolerance (target: glass)": "± 0.35°",
+      "Working range (target: mirror)": "46 .. 50 mm",
+      "Angular tolerance (target: mirror)": "± 0.35°",
+      "Fiber connection": "Screwed",
+      "Pressure": "1E-8 mbar .. 5 bar",
+      "Temperature range": "mK .. 423K",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "IDSMF/LT/HV metal tubing (1015965)",
+      "Number of axes": "1",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > M12/F40. Model: IDSH/M12/F40/LT/HV. ID: 1013444. Optics type: Focusing. Dimensions: Ø 14 mm, length 19.5 mm. Weight: 5.1 g. Mounting: Metric M12 x 0.5. Focal length: 40 mm. Beam diameter at focal point: ~ 45 µm. Connector: FC/PC. Working range (target: glass): 38.5 .. 41.5 mm. Angular tolerance (target: glass): ± 0.35°. Working range (target: mirror): 46 .. 50 mm. Angular tolerance (target: mirror): ± 0.35°. Fiber connection: Screwed. Pressure: 1E-8 mbar .. 5 bar. Temperature range: mK .. 423K. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: IDSMF/LT/HV metal tubing (1015965). Number of axes: 1. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1013445",
+    "model": "IDSH/M12/F40/LT/UHV/RAD",
+    "category_path": "Sensing > Sensor Head > M12/F40",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 14 mm, length 19.5 mm",
+      "Weight": "5.1 g",
+      "Mounting": "Metric M12 x 0.5",
+      "Focal length": "40 mm",
+      "Beam diameter at focal point": "~ 45 µm",
+      "Connector": "FC/PC",
+      "Working range (target: glass)": "38.5 .. 41.5 mm",
+      "Angular tolerance (target: glass)": "± 0.35°",
+      "Working range (target: mirror)": "46 .. 50 mm",
+      "Angular tolerance (target: mirror)": "± 0.35°",
+      "Fiber connection": "Screwed",
+      "Pressure": "1E-10 mbar .. 5 bar",
+      "Temperature range": "0 .. 150°C",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "IDSMF/UHV metal tubing (1016354)",
+      "Number of axes": "1",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > M12/F40. Model: IDSH/M12/F40/LT/UHV/RAD. ID: 1013445. Optics type: Focusing. Dimensions: Ø 14 mm, length 19.5 mm. Weight: 5.1 g. Mounting: Metric M12 x 0.5. Focal length: 40 mm. Beam diameter at focal point: ~ 45 µm. Connector: FC/PC. Working range (target: glass): 38.5 .. 41.5 mm. Angular tolerance (target: glass): ± 0.35°. Working range (target: mirror): 46 .. 50 mm. Angular tolerance (target: mirror): ± 0.35°. Fiber connection: Screwed. Pressure: 1E-10 mbar .. 5 bar. Temperature range: 0 .. 150°C. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: IDSMF/UHV metal tubing (1016354). Number of axes: 1. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1013383",
+    "model": "IDSH/D4/F17/RT",
+    "category_path": "Sensing > Sensor Head > D4/F17",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 4 mm, length 11.5 mm",
+      "Weight": "3 g",
+      "Mounting": "Clamped",
+      "Focal length": "17 mm",
+      "Beam diameter at focal point": "~ 120 µm",
+      "Connector": "None (fiber glued)",
+      "Working range (target: glass)": "14.5 .. 19.5 mm",
+      "Angular tolerance (target: glass)": "± 0.15°",
+      "Working range (target: mirror)": "50 .. 65 mm",
+      "Angular tolerance (target: mirror)": "± 0.3°",
+      "Fiber connection": "SC/APC",
+      "Fiber length": "2 m",
+      "Pressure": "Ambient pressure",
+      "Temperature range": "0 .. 50°C",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "–",
+      "Fiber": "–",
+      "Fiber feedthrough-sensor head": "–",
+      "Number of axes": "1",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > D4/F17. Model: IDSH/D4/F17/RT. ID: 1013383. Optics type: Focusing. Dimensions: Ø 4 mm, length 11.5 mm. Weight: 3 g. Mounting: Clamped. Focal length: 17 mm. Beam diameter at focal point: ~ 120 µm. Connector: None (fiber glued). Working range (target: glass): 14.5 .. 19.5 mm. Angular tolerance (target: glass): ± 0.15°. Working range (target: mirror): 50 .. 65 mm. Angular tolerance (target: mirror): ± 0.3°. Fiber connection: SC/APC. Fiber length: 2 m. Pressure: Ambient pressure. Temperature range: 0 .. 50°C. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: –. Fiber: –. Fiber feedthrough-sensor head: –. Number of axes: 1. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1013441",
+    "model": "IDSH/D4/F17/LT/HV",
+    "category_path": "Sensing > Sensor Head > D4/F17",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 4 mm, length 11.5 mm",
+      "Weight": "3 g",
+      "Mounting": "Clamped",
+      "Focal length": "17 mm",
+      "Beam diameter at focal point": "~ 120 µm",
+      "Connector": "None (fiber glued)",
+      "Working range (target: glass)": "14.5 .. 19.5 mm",
+      "Angular tolerance (target: glass)": "± 0.15°",
+      "Working range (target: mirror)": "50 .. 65 mm",
+      "Angular tolerance (target: mirror)": "± 0.3°",
+      "Fiber connection": "FC/APC",
+      "Fiber length": "2 m",
+      "Pressure": "1E-8 mbar .. 5 bar",
+      "Temperature range": "mK .. 423K",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "–",
+      "Number of axes": "1",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > D4/F17. Model: IDSH/D4/F17/LT/HV. ID: 1013441. Optics type: Focusing. Dimensions: Ø 4 mm, length 11.5 mm. Weight: 3 g. Mounting: Clamped. Focal length: 17 mm. Beam diameter at focal point: ~ 120 µm. Connector: None (fiber glued). Working range (target: glass): 14.5 .. 19.5 mm. Angular tolerance (target: glass): ± 0.15°. Working range (target: mirror): 50 .. 65 mm. Angular tolerance (target: mirror): ± 0.3°. Fiber connection: FC/APC. Fiber length: 2 m. Pressure: 1E-8 mbar .. 5 bar. Temperature range: mK .. 423K. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: –. Number of axes: 1. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1013442",
+    "model": "IDSH/D4/F17/UHV",
+    "category_path": "Sensing > Sensor Head > D4/F17",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 4 mm, length 11.5 mm",
+      "Weight": "3 g",
+      "Mounting": "Clamped",
+      "Focal length": "17 mm",
+      "Beam diameter at focal point": "~ 120 µm",
+      "Connector": "None (fiber glued)",
+      "Working range (target: glass)": "14.5 .. 19.5 mm",
+      "Angular tolerance (target: glass)": "± 0.15°",
+      "Working range (target: mirror)": "50 .. 65 mm",
+      "Angular tolerance (target: mirror)": "± 0.3°",
+      "Fiber connection": "FC/APC",
+      "Fiber length": "2 m",
+      "Pressure": "1E-10 mbar .. 5 bar",
+      "Temperature range": "mK .. 423K",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "–",
+      "Number of axes": "1",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > D4/F17. Model: IDSH/D4/F17/UHV. ID: 1013442. Optics type: Focusing. Dimensions: Ø 4 mm, length 11.5 mm. Weight: 3 g. Mounting: Clamped. Focal length: 17 mm. Beam diameter at focal point: ~ 120 µm. Connector: None (fiber glued). Working range (target: glass): 14.5 .. 19.5 mm. Angular tolerance (target: glass): ± 0.15°. Working range (target: mirror): 50 .. 65 mm. Angular tolerance (target: mirror): ± 0.3°. Fiber connection: FC/APC. Fiber length: 2 m. Pressure: 1E-10 mbar .. 5 bar. Temperature range: mK .. 423K. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: –. Number of axes: 1. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1013384",
+    "model": "IDSH/D1.2/F18/RT",
+    "category_path": "Sensing > Sensor Head > D1.2/F18",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 1.2 mm, length 7.5 mm",
+      "Weight": "0.1 g",
+      "Mounting": "Clamped",
+      "Focal length": "18 mm",
+      "Beam diameter at focal point": "~ 70 µm",
+      "Connector": "None (fiber glued)",
+      "Working range (target: glass)": "17 .. 21 mm",
+      "Angular tolerance (target: glass)": "± 0.175°",
+      "Working range (target: mirror)": "25 .. 34 mm",
+      "Angular tolerance (target: mirror)": "± 0.3°",
+      "Fiber connection": "SC/APC",
+      "Fiber length": "2 m",
+      "Pressure": "Ambient pressure",
+      "Temperature range": "0 .. 50°C",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "–",
+      "Fiber": "–",
+      "Fiber feedthrough-sensor head": "–",
+      "Number of axes": "1",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > D1.2/F18. Model: IDSH/D1.2/F18/RT. ID: 1013384. Optics type: Focusing. Dimensions: Ø 1.2 mm, length 7.5 mm. Weight: 0.1 g. Mounting: Clamped. Focal length: 18 mm. Beam diameter at focal point: ~ 70 µm. Connector: None (fiber glued). Working range (target: glass): 17 .. 21 mm. Angular tolerance (target: glass): ± 0.175°. Working range (target: mirror): 25 .. 34 mm. Angular tolerance (target: mirror): ± 0.3°. Fiber connection: SC/APC. Fiber length: 2 m. Pressure: Ambient pressure. Temperature range: 0 .. 50°C. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: –. Fiber: –. Fiber feedthrough-sensor head: –. Number of axes: 1. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1011404",
+    "model": "IDSH/D12/F2.8/RT",
+    "category_path": "Sensing > Sensor Head > D12/F2.8",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 12 mm, length 32.3 mm",
+      "Weight": "8.8 g",
+      "Mounting": "Clamped",
+      "Spot size": "14 µm",
+      "Focal length": "2.8 mm",
+      "Beam diameter at focal point": "~ 14 µm",
+      "Connector": "FC/PC",
+      "Working range (target: glass)": "2.8 mm (± 4 µm)",
+      "Angular tolerance (target: glass)": "± 4°",
+      "Working range (target: wafer)": "2.8 mm (± 14 µm)",
+      "Angular tolerance (target: wafer)": "± 7°",
+      "Working range (target: mirror)": "2.8 mm (± 20 µm)",
+      "Angular tolerance (target: mirror)": "± 10°",
+      "Fiber connection": "Screwed",
+      "Pressure": "Ambient pressure",
+      "Temperature range": "0 .. 50°C",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "–",
+      "Fiber": "IDS-sensor head IDSMF/PC/RT (1009980)",
+      "Fiber feedthrough-sensor head": "–",
+      "Number of axes": "1",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > D12/F2.8. Model: IDSH/D12/F2.8/RT. ID: 1011404. Optics type: Focusing. Dimensions: Ø 12 mm, length 32.3 mm. Weight: 8.8 g. Mounting: Clamped. Spot size: 14 µm. Focal length: 2.8 mm. Beam diameter at focal point: ~ 14 µm. Connector: FC/PC. Working range (target: glass): 2.8 mm (± 4 µm). Angular tolerance (target: glass): ± 4°. Working range (target: wafer): 2.8 mm (± 14 µm). Angular tolerance (target: wafer): ± 7°. Working range (target: mirror): 2.8 mm (± 20 µm). Angular tolerance (target: mirror): ± 10°. Fiber connection: Screwed. Pressure: Ambient pressure. Temperature range: 0 .. 50°C. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: –. Fiber: IDS-sensor head IDSMF/PC/RT (1009980). Fiber feedthrough-sensor head: –. Number of axes: 1. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1011405",
+    "model": "IDSH/D12/F2.8/LT/HV",
+    "category_path": "Sensing > Sensor Head > D12/F2.8",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 12 mm, length 32.3 mm",
+      "Weight": "8.8 g",
+      "Mounting": "Clamped",
+      "Spot size": "14 µm",
+      "Focal length": "2.8 mm",
+      "Beam diameter at focal point": "~ 14 µm",
+      "Connector": "FC/PC",
+      "Working range (target: glass)": "2.8 mm (± 4 µm)",
+      "Angular tolerance (target: glass)": "± 4°",
+      "Working range (target: wafer)": "2.8 mm (± 14 µm)",
+      "Angular tolerance (target: wafer)": "± 7°",
+      "Working range (target: mirror)": "2.8 mm (± 20 µm)",
+      "Angular tolerance (target: mirror)": "± 10°",
+      "Fiber connection": "Screwed",
+      "Pressure": "1E-8 mbar .. 5 bar",
+      "Temperature range": "mK .. 423K",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "IDSMF/LT/HV metal tubing (1015965)",
+      "Number of axes": "1",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > D12/F2.8. Model: IDSH/D12/F2.8/LT/HV. ID: 1011405. Optics type: Focusing. Dimensions: Ø 12 mm, length 32.3 mm. Weight: 8.8 g. Mounting: Clamped. Spot size: 14 µm. Focal length: 2.8 mm. Beam diameter at focal point: ~ 14 µm. Connector: FC/PC. Working range (target: glass): 2.8 mm (± 4 µm). Angular tolerance (target: glass): ± 4°. Working range (target: wafer): 2.8 mm (± 14 µm). Angular tolerance (target: wafer): ± 7°. Working range (target: mirror): 2.8 mm (± 20 µm). Angular tolerance (target: mirror): ± 10°. Fiber connection: Screwed. Pressure: 1E-8 mbar .. 5 bar. Temperature range: mK .. 423K. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: IDSMF/LT/HV metal tubing (1015965). Number of axes: 1. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1011406",
+    "model": "IDSH/D12/F2.8/LT/UHV/RAD",
+    "category_path": "Sensing > Sensor Head > D12/F2.8",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 12 mm, length 32.3 mm",
+      "Weight": "8.8 g",
+      "Mounting": "Clamped",
+      "Spot size": "14 µm",
+      "Focal length": "2.8 mm",
+      "Beam diameter at focal point": "~ 14 µm",
+      "Connector": "FC/PC",
+      "Working range (target: glass)": "2.8 mm (± 4 µm)",
+      "Angular tolerance (target: glass)": "± 4°",
+      "Working range (target: wafer)": "2.8 mm (± 14 µm)",
+      "Angular tolerance (target: wafer)": "± 7°",
+      "Working range (target: mirror)": "2.8 mm (± 20 µm)",
+      "Angular tolerance (target: mirror)": "± 10°",
+      "Fiber connection": "Screwed",
+      "Pressure": "1E-10 mbar .. 5 bar",
+      "Temperature range": "0 .. 150°C",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "IDSMF/UHV metal tubing (1016354)",
+      "Number of axes": "1",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > D12/F2.8. Model: IDSH/D12/F2.8/LT/UHV/RAD. ID: 1011406. Optics type: Focusing. Dimensions: Ø 12 mm, length 32.3 mm. Weight: 8.8 g. Mounting: Clamped. Spot size: 14 µm. Focal length: 2.8 mm. Beam diameter at focal point: ~ 14 µm. Connector: FC/PC. Working range (target: glass): 2.8 mm (± 4 µm). Angular tolerance (target: glass): ± 4°. Working range (target: wafer): 2.8 mm (± 14 µm). Angular tolerance (target: wafer): ± 7°. Working range (target: mirror): 2.8 mm (± 20 µm). Angular tolerance (target: mirror): ± 10°. Fiber connection: Screwed. Pressure: 1E-10 mbar .. 5 bar. Temperature range: 0 .. 150°C. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: IDSMF/UHV metal tubing (1016354). Number of axes: 1. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1020765",
+    "model": "IDSH/M15.5/C1.6/FLEX/RT (with filter)",
+    "category_path": "Sensing > Sensor Head > M15.5/C1.6/FLEX",
+    "attributes": {
+      "Optics type": "Collimating",
+      "Dimensions": "Ø 22 mm, length 20.6 mm",
+      "Weight": "16.1 g",
+      "Mounting": "Metric M15.5 x 0.5",
+      "Beam diameter": "1.6 mm",
+      "Focal length": "Infinity",
+      "Connector": "FC/PC",
+      "Working range (target: mirror)": "Up to 1000 mm",
+      "Angular tolerance (target: mirror)": "± 0.02°",
+      "Working range (target: retroreflector)": "Up to 1000 mm",
+      "Lateral tolerance (target: retroreflector)": "± 0.5 mm",
+      "Angular tolerance (target: retroreflector)": "± 6°",
+      "Fiber connection": "Screwed",
+      "Tilt range": "1°",
+      "Resolution": "0.03°",
+      "Pressure": "Ambient pressure",
+      "Temperature range": "0 .. 50°C",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "–",
+      "Fiber": "IDS-sensor head IDSMF/PC/RT (1009980)",
+      "Fiber feedthrough-sensor head": "–",
+      "Number of axes": "1",
+      "Alignment tool": "Hexagon wrench key",
+      "Attenuator": "Connector SC/APC, Attenuation: 1 dB"
+    },
+    "text": "Category: Sensing > Sensor Head > M15.5/C1.6/FLEX. Model: IDSH/M15.5/C1.6/FLEX/RT (with filter). ID: 1020765. Optics type: Collimating. Dimensions: Ø 22 mm, length 20.6 mm. Weight: 16.1 g. Mounting: Metric M15.5 x 0.5. Beam diameter: 1.6 mm. Focal length: Infinity. Connector: FC/PC. Working range (target: mirror): Up to 1000 mm. Angular tolerance (target: mirror): ± 0.02°. Working range (target: retroreflector): Up to 1000 mm. Lateral tolerance (target: retroreflector): ± 0.5 mm. Angular tolerance (target: retroreflector): ± 6°. Fiber connection: Screwed. Tilt range: 1°. Resolution: 0.03°. Pressure: Ambient pressure. Temperature range: 0 .. 50°C. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: –. Fiber: IDS-sensor head IDSMF/PC/RT (1009980). Fiber feedthrough-sensor head: –. Number of axes: 1. Alignment tool: Hexagon wrench key. Attenuator: Connector SC/APC, Attenuation: 1 dB."
+  },
+  {
+    "id": "1020764",
+    "model": "IDSH/M15.5/C1.6/FLEX/LT/HV (with filter)",
+    "category_path": "Sensing > Sensor Head > M15.5/C1.6/FLEX",
+    "attributes": {
+      "Optics type": "Collimating",
+      "Dimensions": "Ø 22 mm, length 20.6 mm",
+      "Weight": "16.1 g",
+      "Mounting": "Metric M15.5 x 0.5",
+      "Beam diameter": "1.6 mm",
+      "Focal length": "Infinity",
+      "Connector": "FC/PC",
+      "Working range (target: mirror)": "Up to 1000 mm",
+      "Angular tolerance (target: mirror)": "± 0.02°",
+      "Working range (target: retroreflector)": "–",
+      "Lateral tolerance (target: retroreflector)": "± 0.5 mm",
+      "Angular tolerance (target: retroreflector)": "± 6°",
+      "Fiber connection": "Screwed",
+      "Tilt range": "1°",
+      "Resolution": "0.03°",
+      "Pressure": "1E-8 mbar .. 5 bar",
+      "Temperature range": "mK .. 423K",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "IDSMF/LT/HV metal tubing (1015965)",
+      "Number of axes": "1",
+      "Alignment tool": "Hexagon wrench key",
+      "Attenuator": "Connector SC/APC, Attenuation: 1 dB"
+    },
+    "text": "Category: Sensing > Sensor Head > M15.5/C1.6/FLEX. Model: IDSH/M15.5/C1.6/FLEX/LT/HV (with filter). ID: 1020764. Optics type: Collimating. Dimensions: Ø 22 mm, length 20.6 mm. Weight: 16.1 g. Mounting: Metric M15.5 x 0.5. Beam diameter: 1.6 mm. Focal length: Infinity. Connector: FC/PC. Working range (target: mirror): Up to 1000 mm. Angular tolerance (target: mirror): ± 0.02°. Working range (target: retroreflector): –. Lateral tolerance (target: retroreflector): ± 0.5 mm. Angular tolerance (target: retroreflector): ± 6°. Fiber connection: Screwed. Tilt range: 1°. Resolution: 0.03°. Pressure: 1E-8 mbar .. 5 bar. Temperature range: mK .. 423K. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: IDSMF/LT/HV metal tubing (1015965). Number of axes: 1. Alignment tool: Hexagon wrench key. Attenuator: Connector SC/APC, Attenuation: 1 dB."
+  },
+  {
+    "id": "1022884",
+    "model": "IDSH/M15.5/C1.6/FLEX/LT/UHV/RAD (with filter)",
+    "category_path": "Sensing > Sensor Head > M15.5/C1.6/FLEX",
+    "attributes": {
+      "Optics type": "Collimating",
+      "Dimensions": "Ø 22 mm, length 20.6 mm",
+      "Weight": "16.1 g",
+      "Mounting": "Metric M15.5 x 0.5",
+      "Beam diameter": "1.6 mm",
+      "Focal length": "–",
+      "Connector": "FC/PC",
+      "Working range (target: mirror)": "Up to 1000 mm",
+      "Angular tolerance (target: mirror)": "± 0.02°",
+      "Working range (target: retroreflector)": "–",
+      "Lateral tolerance (target: retroreflector)": "± 0.5 mm",
+      "Angular tolerance (target: retroreflector)": "± 6°",
+      "Fiber connection": "Screwed",
+      "Tilt range": "1°",
+      "Resolution": "0.03°",
+      "Pressure": "1E-10 mbar .. 5 bar",
+      "Temperature range": "0 .. 150°C",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "IDSMF/UHV metal tubing (1016354)",
+      "Number of axes": "1",
+      "Alignment tool": "Hexagon wrench key",
+      "Attenuator": "Connector SC/APC, Attenuation: 1 dB"
+    },
+    "text": "Category: Sensing > Sensor Head > M15.5/C1.6/FLEX. Model: IDSH/M15.5/C1.6/FLEX/LT/UHV/RAD (with filter). ID: 1022884. Optics type: Collimating. Dimensions: Ø 22 mm, length 20.6 mm. Weight: 16.1 g. Mounting: Metric M15.5 x 0.5. Beam diameter: 1.6 mm. Focal length: –. Connector: FC/PC. Working range (target: mirror): Up to 1000 mm. Angular tolerance (target: mirror): ± 0.02°. Working range (target: retroreflector): –. Lateral tolerance (target: retroreflector): ± 0.5 mm. Angular tolerance (target: retroreflector): ± 6°. Fiber connection: Screwed. Tilt range: 1°. Resolution: 0.03°. Pressure: 1E-10 mbar .. 5 bar. Temperature range: 0 .. 150°C. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: IDSMF/UHV metal tubing (1016354). Number of axes: 1. Alignment tool: Hexagon wrench key. Attenuator: Connector SC/APC, Attenuation: 1 dB."
+  },
+  {
+    "id": "1013381",
+    "model": "IDSH/M15.5/F40/FLEX/RT",
+    "category_path": "Sensing > Sensor Head > M15.5/F40/FLEX",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 22 mm, length 22.7 mm",
+      "Weight": "16.1 g",
+      "Mounting": "Metric M15.5 x 0.5",
+      "Focal length": "40 mm",
+      "Beam diameter at focal point": "~ 45 µm",
+      "Connector": "FC/PC",
+      "Working range (target: glass)": "38.5 .. 41.5 mm",
+      "Angular tolerance (target: glass)": "± 0.35°",
+      "Working range (target: mirror)": "46 .. 50 mm",
+      "Angular tolerance (target: mirror)": "± 0.35°",
+      "Fiber connection": "Screwed",
+      "Filter": "ND filter (KG2 material)",
+      "Tilt range": "1°",
+      "Resolution": "0.03°",
+      "Pressure": "Ambient pressure",
+      "Temperature range": "0 .. 50°C",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "–",
+      "Flexure grease": "UHV grease",
+      "Fiber": "IDS-sensor head IDSMF/PC/RT (1009980)",
+      "Fiber feedthrough-sensor head": "–",
+      "Number of axes": "1",
+      "Alignment tool": "Hexagon wrench key",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > M15.5/F40/FLEX. Model: IDSH/M15.5/F40/FLEX/RT. ID: 1013381. Optics type: Focusing. Dimensions: Ø 22 mm, length 22.7 mm. Weight: 16.1 g. Mounting: Metric M15.5 x 0.5. Focal length: 40 mm. Beam diameter at focal point: ~ 45 µm. Connector: FC/PC. Working range (target: glass): 38.5 .. 41.5 mm. Angular tolerance (target: glass): ± 0.35°. Working range (target: mirror): 46 .. 50 mm. Angular tolerance (target: mirror): ± 0.35°. Fiber connection: Screwed. Filter: ND filter (KG2 material). Tilt range: 1°. Resolution: 0.03°. Pressure: Ambient pressure. Temperature range: 0 .. 50°C. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: –. Flexure grease: UHV grease. Fiber: IDS-sensor head IDSMF/PC/RT (1009980). Fiber feedthrough-sensor head: –. Number of axes: 1. Alignment tool: Hexagon wrench key. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1013447",
+    "model": "IDSH/M15.5/F40/FLEX/LT/HV",
+    "category_path": "Sensing > Sensor Head > M15.5/F40/FLEX",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 22 mm, length 22.7 mm",
+      "Weight": "16.1 g",
+      "Mounting": "Metric M15.5 x 0.5",
+      "Focal length": "40 mm",
+      "Beam diameter at focal point": "~ 45 µm",
+      "Connector": "FC/PC",
+      "Working range (target: glass)": "38.5 .. 41.5 mm",
+      "Angular tolerance (target: glass)": "± 0.35°",
+      "Working range (target: mirror)": "46 .. 50 mm",
+      "Angular tolerance (target: mirror)": "± 0.35°",
+      "Fiber connection": "Screwed",
+      "Filter": "ND filter (KG2 material)",
+      "Tilt range": "1°",
+      "Resolution": "0.03°",
+      "Pressure": "1E-8 mbar .. 5 bar",
+      "Temperature range": "mK .. 423K",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Flexure grease": "UHV grease",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "IDSMF/LT/HV metal tubing (1015965)",
+      "Number of axes": "1",
+      "Alignment tool": "Hexagon wrench key",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > M15.5/F40/FLEX. Model: IDSH/M15.5/F40/FLEX/LT/HV. ID: 1013447. Optics type: Focusing. Dimensions: Ø 22 mm, length 22.7 mm. Weight: 16.1 g. Mounting: Metric M15.5 x 0.5. Focal length: 40 mm. Beam diameter at focal point: ~ 45 µm. Connector: FC/PC. Working range (target: glass): 38.5 .. 41.5 mm. Angular tolerance (target: glass): ± 0.35°. Working range (target: mirror): 46 .. 50 mm. Angular tolerance (target: mirror): ± 0.35°. Fiber connection: Screwed. Filter: ND filter (KG2 material). Tilt range: 1°. Resolution: 0.03°. Pressure: 1E-8 mbar .. 5 bar. Temperature range: mK .. 423K. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Flexure grease: UHV grease. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: IDSMF/LT/HV metal tubing (1015965). Number of axes: 1. Alignment tool: Hexagon wrench key. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1013448",
+    "model": "IDSH/M15.5/F40/FLEX/LT/UHV/RAD",
+    "category_path": "Sensing > Sensor Head > M15.5/F40/FLEX",
+    "attributes": {
+      "Optics type": "Focusing",
+      "Dimensions": "Ø 22 mm, length 22.7 mm",
+      "Weight": "16.1 g",
+      "Mounting": "Metric M15.5 x 0.5",
+      "Focal length": "40 mm",
+      "Beam diameter at focal point": "~ 45 µm",
+      "Connector": "FC/PC",
+      "Working range (target: glass)": "38.5 .. 41.5 mm",
+      "Angular tolerance (target: glass)": "± 0.35°",
+      "Working range (target: mirror)": "46 .. 50 mm",
+      "Angular tolerance (target: mirror)": "± 0.35°",
+      "Fiber connection": "Screwed",
+      "Filter": "ND filter (KG2 material)",
+      "Tilt range": "1°",
+      "Resolution": "0.03°",
+      "Pressure": "1E-10 mbar .. 5 bar",
+      "Temperature range": "0 .. 150°C",
+      "Radiation": "–",
+      "Housing": "Titanium Grade 2 (3.7035)",
+      "Lens": "Glass (with AR C coating)",
+      "Adhesive": "NASA outgassing compliant adhesive",
+      "Flexure grease": "UHV grease",
+      "Fiber": "IDS-feedthrough IDSMF/APC/RT (1009981)",
+      "Fiber feedthrough-sensor head": "IDSMF/UHV metal tubing (1016354)",
+      "Number of axes": "1",
+      "Alignment tool": "Hexagon wrench key",
+      "Mirror": "Ø 9 mm, Al coated (1010846)"
+    },
+    "text": "Category: Sensing > Sensor Head > M15.5/F40/FLEX. Model: IDSH/M15.5/F40/FLEX/LT/UHV/RAD. ID: 1013448. Optics type: Focusing. Dimensions: Ø 22 mm, length 22.7 mm. Weight: 16.1 g. Mounting: Metric M15.5 x 0.5. Focal length: 40 mm. Beam diameter at focal point: ~ 45 µm. Connector: FC/PC. Working range (target: glass): 38.5 .. 41.5 mm. Angular tolerance (target: glass): ± 0.35°. Working range (target: mirror): 46 .. 50 mm. Angular tolerance (target: mirror): ± 0.35°. Fiber connection: Screwed. Filter: ND filter (KG2 material). Tilt range: 1°. Resolution: 0.03°. Pressure: 1E-10 mbar .. 5 bar. Temperature range: 0 .. 150°C. Radiation: –. Housing: Titanium Grade 2 (3.7035). Lens: Glass (with AR C coating). Adhesive: NASA outgassing compliant adhesive. Flexure grease: UHV grease. Fiber: IDS-feedthrough IDSMF/APC/RT (1009981). Fiber feedthrough-sensor head: IDSMF/UHV metal tubing (1016354). Number of axes: 1. Alignment tool: Hexagon wrench key. Mirror: Ø 9 mm, Al coated (1010846)."
+  },
+  {
+    "id": "1010623",
+    "model": "Displacement Measuring Interferometer (IDS3010)",
+    "category_path": "Sensing > Controller > IDS3010",
+    "attributes": {
+      "Number of sensor axes": "3",
+      "Working distance": "0...5000 mm (up to 30 m on request)",
+      "Sensor resolution": "0,541666667",
+      "Max. target velocity": "2 m/s",
+      "Measurement bandwidth": "10 MHz",
+      "Laser wavelength accuracy": "± 0.05 ppm (3 years)",
+      "Signal stability (WD: 77 mm)": "0.110 nm (2 s)",
+      "Measurement mode": "Displacement",
+      "Remote operation": "Integrated webserver",
+      "Output signal: displacement measurement": "Laser light (IR)",
+      "Output signal: alignment laser": "Laser light (VIS)",
+      "Sensor alignment": "Via integrated webserver",
+      "Sensor initialization": "Via integrated webserver",
+      "Factory reset": "Via GPIO connector",
+      "Controller ambient conditions": "–",
+      "Sensor heads": "Depending on specifications",
+      "ECU ambient conditions": "–",
+      "Analog interfaces": "Sin/cos (real time), linear analog (optional)",
+      "Digital interfaces": "AquadB, HSSL (real time)",
+      "Real-time interface bandwidth": "Up to 25 MHz",
+      "Field bus interface bandwidth": "Depending on system",
+      "Resolution sin/cos (inc.)": "Freely assignable; 1 pm – 2²⁴ pm",
+      "Resolution AquadB (inc.)": "Freely assignable",
+      "Resolution field bus systems": "Depending on protocol",
+      "Chassis": "55 × 52 × 195 mm³",
+      "Weight": "730 g",
+      "Power consumption": "8 W",
+      "Laser source (measurement)": "DFB laser (Class 1)",
+      "Laser output power (measurement)": "Max. 400 µW",
+      "Laser wavelength (measurement)": "1530 nm",
+      "Laser source (alignment)": "Fiber-coupled laser diode",
+      "Laser output power (alignment)": "< 0.5 mW",
+      "Laser wavelength (alignment)": "650 nm",
+      "Included": "IDSH sensor heads, IDSECU, IDSMF fibers, FVFT feedthroughs",
+      "Web browser": "No drivers needed; accessible via Ethernet & C# DLL"
+    },
+    "text": "Category: Sensing > Controller > IDS3010. Model: Displacement Measuring Interferometer (IDS3010). ID: 1010623. Number of sensor axes: 3. Working distance: 0...5000 mm (up to 30 m on request). Sensor resolution: 0,541666667. Max. target velocity: 2 m/s. Measurement bandwidth: 10 MHz. Laser wavelength accuracy: ± 0.05 ppm (3 years). Signal stability (WD: 77 mm): 0.110 nm (2 s). Measurement mode: Displacement. Remote operation: Integrated webserver. Output signal: displacement measurement: Laser light (IR). Output signal: alignment laser: Laser light (VIS). Sensor alignment: Via integrated webserver. Sensor initialization: Via integrated webserver. Factory reset: Via GPIO connector. Controller ambient conditions: –. Sensor heads: Depending on specifications. ECU ambient conditions: –. Analog interfaces: Sin/cos (real time), linear analog (optional). Digital interfaces: AquadB, HSSL (real time). Real-time interface bandwidth: Up to 25 MHz. Field bus interface bandwidth: Depending on system. Resolution sin/cos (inc.): Freely assignable; 1 pm – 2²⁴ pm. Resolution AquadB (inc.): Freely assignable. Resolution field bus systems: Depending on protocol. Chassis: 55 × 52 × 195 mm³. Weight: 730 g. Power consumption: 8 W. Laser source (measurement): DFB laser (Class 1). Laser output power (measurement): Max. 400 µW. Laser wavelength (measurement): 1530 nm. Laser source (alignment): Fiber-coupled laser diode. Laser output power (alignment): < 0.5 mW. Laser wavelength (alignment): 650 nm. Included: IDSH sensor heads, IDSECU, IDSMF fibers, FVFT feedthroughs. Web browser: No drivers needed; accessible via Ethernet & C# DLL."
+  },
+  {
+    "id": "1014395",
+    "model": "Environment compensation unit (ECU) for IDS systems",
+    "category_path": "Sensing > Accessories > Environmental Compensation Unit (ECU)",
+    "attributes": {
+      "Description": "Accurate interferometrical measurements in ambient environment",
+      "Dimensions": "28 × 61 × 20.5 mm³",
+      "Weight": "41.5 g",
+      "Integrated sensors": "Temperature (T), Pressure (p), Relative Humidity (rH)",
+      "Interface": "RJ12 connector",
+      "Sensor mount": "Screw mount",
+      "Working environment": "Non-condensing",
+      "Cable length": "1.83 m",
+      "T-sensor": "± 0.1°C (0..50°C)",
+      "p-sensor": "± 1 hPa (300..1100 mbar)",
+      "rH-sensor": "± 2% (10..90%)",
+      "Typical accuracy setup": "Guaranteed ± 1.0 ppm up to 5 m; expected ± 0.0 ppm up to 4.2 m",
+      "System integration": "Plug-and-play with all IDS models",
+      "Mounting options": "Screw or magnet mount"
+    },
+    "text": "Category: Sensing > Accessories > Environmental Compensation Unit (ECU). Model: Environment compensation unit (ECU) for IDS systems. ID: 1014395. Description: Accurate interferometrical measurements in ambient environment. Dimensions: 28 × 61 × 20.5 mm³. Weight: 41.5 g. Integrated sensors: Temperature (T), Pressure (p), Relative Humidity (rH). Interface: RJ12 connector. Sensor mount: Screw mount. Working environment: Non-condensing. Cable length: 1.83 m. T-sensor: ± 0.1°C (0..50°C). p-sensor: ± 1 hPa (300..1100 mbar). rH-sensor: ± 2% (10..90%). Typical accuracy setup: Guaranteed ± 1.0 ppm up to 5 m; expected ± 0.0 ppm up to 4.2 m. System integration: Plug-and-play with all IDS models. Mounting options: Screw or magnet mount."
+  },
+  {
+    "id": "1010914",
+    "model": "IDS Starter Kit",
+    "category_path": "Sensing > Accessories > Sensing Optics & Starter Kits",
+    "attributes": {
+      "Delivery Scope": "- Open cable for real-time output, - Cleaning device for fibers (FC/PC+APC, SC/APC), - 20x adjustable clip for glass fibers /RT"
+    },
+    "text": "Category: Sensing > Accessories > Sensing Optics & Starter Kits. Model: IDS Starter Kit. ID: 1010914. Delivery Scope: - Open cable for real-time output, - Cleaning device for fibers (FC/PC+APC, SC/APC), - 20x adjustable clip for glass fibers /RT."
+  },
+  {
+    "id": "1013563",
+    "model": "Optics Kit – Pro",
+    "category_path": "Sensing > Accessories > Sensing Optics & Starter Kits",
+    "attributes": {
+      "Delivery Scope": "- Fiber cleaning tool, - Mounting for big sensor heads (M12, M15.5), - Mounting for mirror"
+    },
+    "text": "Category: Sensing > Accessories > Sensing Optics & Starter Kits. Model: Optics Kit – Pro. ID: 1013563. Delivery Scope: - Fiber cleaning tool, - Mounting for big sensor heads (M12, M15.5), - Mounting for mirror."
+  },
+  {
+    "id": "1013564",
+    "model": "Optics Kit – Pro xs",
+    "category_path": "Sensing > Accessories > Sensing Optics & Starter Kits",
+    "attributes": {
+      "Delivery Scope": "- Fiber cleaning tool, - Mounting for small (xs) sensor heads, - Mounting for mirror"
+    },
+    "text": "Category: Sensing > Accessories > Sensing Optics & Starter Kits. Model: Optics Kit – Pro xs. ID: 1013564. Delivery Scope: - Fiber cleaning tool, - Mounting for small (xs) sensor heads, - Mounting for mirror."
+  },
+  {
+    "id": "1020179",
+    "model": "Mounted Retroreflector Ø 12.7 mm /RT",
+    "category_path": "Sensing > Accessories > Targets",
+    "attributes": {
+      "Type": "Mounted Retroreflector",
+      "Reflector Diameter": "12.7 mm",
+      "Return Beam Accuracy": "5 arcsec",
+      "Housing / Material": "Aluminum",
+      "Coating": "Gold",
+      "Weight": "55 g (5.84 g w/o housing)"
+    },
+    "text": "Category: Sensing > Accessories > Targets. Model: Mounted Retroreflector Ø 12.7 mm /RT. ID: 1020179. Type: Mounted Retroreflector. Reflector Diameter: 12.7 mm. Return Beam Accuracy: 5 arcsec. Housing / Material: Aluminum. Coating: Gold. Weight: 55 g (5.84 g w/o housing)."
+  },
+  {
+    "id": "1020181",
+    "model": "Mounted Retroreflector Ø 12.7 mm LT/HV/UHV",
+    "category_path": "Sensing > Accessories > Targets",
+    "attributes": {
+      "Type": "Mounted Retroreflector",
+      "Reflector Diameter": "12.7 mm",
+      "Return Beam Accuracy": "5 arcsec",
+      "Housing / Material": "Titanium (3.7035), PEEK, fused silica",
+      "Coating": "–",
+      "Weight": "12.5 g"
+    },
+    "text": "Category: Sensing > Accessories > Targets. Model: Mounted Retroreflector Ø 12.7 mm LT/HV/UHV. ID: 1020181. Type: Mounted Retroreflector. Reflector Diameter: 12.7 mm. Return Beam Accuracy: 5 arcsec. Housing / Material: Titanium (3.7035), PEEK, fused silica. Coating: –. Weight: 12.5 g."
+  },
+  {
+    "id": "1020180",
+    "model": "Retroreflector Ø 12.7 mm LT/HV/UHV/RAD",
+    "category_path": "Sensing > Accessories > Targets",
+    "attributes": {
+      "Type": "Retroreflector",
+      "Reflector Diameter": "12.7 mm",
+      "Return Beam Accuracy": "5 arcsec",
+      "Housing / Material": "Fused silica",
+      "Coating": "Gold",
+      "Weight": "1.4 g"
+    },
+    "text": "Category: Sensing > Accessories > Targets. Model: Retroreflector Ø 12.7 mm LT/HV/UHV/RAD. ID: 1020180. Type: Retroreflector. Reflector Diameter: 12.7 mm. Return Beam Accuracy: 5 arcsec. Housing / Material: Fused silica. Coating: Gold. Weight: 1.4 g."
+  },
+  {
+    "id": "1020183",
+    "model": "Mounted Retroreflector Ø 3 mm LT/HV/UHV",
+    "category_path": "Sensing > Accessories > Targets",
+    "attributes": {
+      "Type": "Mounted Retroreflector",
+      "Reflector Diameter": "3 mm",
+      "Return Beam Accuracy": "5 arcsec",
+      "Housing / Material": "Titanium, N-BK7",
+      "Coating": "Ag/Inconel",
+      "Weight": "~0.884 g"
+    },
+    "text": "Category: Sensing > Accessories > Targets. Model: Mounted Retroreflector Ø 3 mm LT/HV/UHV. ID: 1020183. Type: Mounted Retroreflector. Reflector Diameter: 3 mm. Return Beam Accuracy: 5 arcsec. Housing / Material: Titanium, N-BK7. Coating: Ag/Inconel. Weight: ~0.884 g."
+  },
+  {
+    "id": "1013418",
+    "model": "Retroreflector Ø 3 mm LT/HV/UHV/RAD",
+    "category_path": "Sensing > Accessories > Targets",
+    "attributes": {
+      "Type": "Retroreflector",
+      "Reflector Diameter": "3 mm",
+      "Return Beam Accuracy": "5 arcsec",
+      "Housing / Material": "Fused silica",
+      "Coating": "Gold",
+      "Weight": "0.023 g"
+    },
+    "text": "Category: Sensing > Accessories > Targets. Model: Retroreflector Ø 3 mm LT/HV/UHV/RAD. ID: 1013418. Type: Retroreflector. Reflector Diameter: 3 mm. Return Beam Accuracy: 5 arcsec. Housing / Material: Fused silica. Coating: Gold. Weight: 0.023 g."
+  },
+  {
+    "id": "1010846",
+    "model": "Aluminium Mirror Ø 9 mm",
+    "category_path": "Sensing > Accessories > Targets",
+    "attributes": {
+      "Type": "Aluminium Mirror",
+      "Reflector Diameter": "9 mm",
+      "Return Beam Accuracy": "–",
+      "Housing / Material": "–",
+      "Coating": "–",
+      "Weight": "0.5 g"
+    },
+    "text": "Category: Sensing > Accessories > Targets. Model: Aluminium Mirror Ø 9 mm. ID: 1010846. Type: Aluminium Mirror. Reflector Diameter: 9 mm. Return Beam Accuracy: –. Housing / Material: –. Coating: –. Weight: 0.5 g."
+  },
+  {
+    "id": "1010847",
+    "model": "Aluminium Mirror Ø 5 mm",
+    "category_path": "Sensing > Accessories > Targets",
+    "attributes": {
+      "Type": "Aluminium Mirror",
+      "Reflector Diameter": "5 mm",
+      "Return Beam Accuracy": "–",
+      "Housing / Material": "–",
+      "Coating": "–",
+      "Weight": "0.48 g"
+    },
+    "text": "Category: Sensing > Accessories > Targets. Model: Aluminium Mirror Ø 5 mm. ID: 1010847. Type: Aluminium Mirror. Reflector Diameter: 5 mm. Return Beam Accuracy: –. Housing / Material: –. Coating: –. Weight: 0.48 g."
+  },
+  {
+    "id": "1007201",
+    "model": "OVFT/1/KF40",
+    "category_path": "Sensing > Accessories > Optical Vacuum Feedthroughs (OVFTs)",
+    "attributes": {
+      "Material": "Ceramics (ZrO₂), Stainless Steel 304L, Glass Optical Fiber with Polyimide Coating",
+      "Weight": "93 g",
+      "O-ring": "VITON",
+      "Adhesive": "Epotek 353 ND + proprietary adhesive"
+    },
+    "text": "Category: Sensing > Accessories > Optical Vacuum Feedthroughs (OVFTs). Model: OVFT/1/KF40. ID: 1007201. Material: Ceramics (ZrO₂), Stainless Steel 304L, Glass Optical Fiber with Polyimide Coating. Weight: 93 g. O-ring: VITON. Adhesive: Epotek 353 ND + proprietary adhesive."
+  },
+  {
+    "id": "1007203",
+    "model": "OVFT/3/KF40",
+    "category_path": "Sensing > Accessories > Optical Vacuum Feedthroughs (OVFTs)",
+    "attributes": {
+      "Material": "Not specified (assumed similar to OVFT/1/KF40)",
+      "Weight": "178 g"
+    },
+    "text": "Category: Sensing > Accessories > Optical Vacuum Feedthroughs (OVFTs). Model: OVFT/3/KF40. ID: 1007203. Material: Not specified (assumed similar to OVFT/1/KF40). Weight: 178 g."
+  },
+  {
+    "id": "1007192",
+    "model": "OVFT/1/CF40",
+    "category_path": "Sensing > Accessories > Optical Vacuum Feedthroughs (OVFTs)",
+    "attributes": {
+      "Material": "Not specified (assumed similar to OVFT/1/KF40)",
+      "Weight": "400 g"
+    },
+    "text": "Category: Sensing > Accessories > Optical Vacuum Feedthroughs (OVFTs). Model: OVFT/1/CF40. ID: 1007192. Material: Not specified (assumed similar to OVFT/1/KF40). Weight: 400 g."
+  },
+  {
+    "id": "1007196",
+    "model": "OVFT/3/CF40",
+    "category_path": "Sensing > Accessories > Optical Vacuum Feedthroughs (OVFTs)",
+    "attributes": {
+      "Material": "Not specified (assumed similar to OVFT/1/KF40)",
+      "Weight": "403.13 g"
+    },
+    "text": "Category: Sensing > Accessories > Optical Vacuum Feedthroughs (OVFTs). Model: OVFT/3/CF40. ID: 1007196. Material: Not specified (assumed similar to OVFT/1/KF40). Weight: 403.13 g."
+  },
+  {
+    "id": "1016354",
+    "model": "IDSMF/UHV",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "UHV: 1E-10 mbar, Ø 3 mm, 2 m, bend radius 6 cm, metal jacket, FC/PC–FC/APC",
+      "Use / Notes": "Sensor head ↔ feedthrough; compatible with /RT, /HV, /UHV, /LT, /RAD"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: IDSMF/UHV. ID: 1016354. Specs: UHV: 1E-10 mbar, Ø 3 mm, 2 m, bend radius 6 cm, metal jacket, FC/PC–FC/APC. Use / Notes: Sensor head ↔ feedthrough; compatible with /RT, /HV, /UHV, /LT, /RAD."
+  },
+  {
+    "id": "1015965",
+    "model": "IDSMF/HV/LT",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "mK–423 K, 1E-8 mbar, 10 Mgy, Ø 3 mm, 2 m, bend radius 6 cm, metal jacket, FC/PC–FC/APC",
+      "Use / Notes": "Sensor head ↔ feedthrough"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: IDSMF/HV/LT. ID: 1015965. Specs: mK–423 K, 1E-8 mbar, 10 Mgy, Ø 3 mm, 2 m, bend radius 6 cm, metal jacket, FC/PC–FC/APC. Use / Notes: Sensor head ↔ feedthrough."
+  },
+  {
+    "id": "1029207",
+    "model": "IDSMF/PC/RT",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "Ambient, Ø 3 mm, 5 m, bend radius 4 cm, PVC jacket, FC/PC–SC/APC",
+      "Use / Notes": "Sensor head ↔ IDS feedthrough"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: IDSMF/PC/RT. ID: 1029207. Specs: Ambient, Ø 3 mm, 5 m, bend radius 4 cm, PVC jacket, FC/PC–SC/APC. Use / Notes: Sensor head ↔ IDS feedthrough."
+  },
+  {
+    "id": "1028969",
+    "model": "IDSMF/APC/RT",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "Ambient, Ø 3 mm, 5 m, bend radius 4 cm, PVC jacket, FC/APC–SC/APC",
+      "Use / Notes": "Sensor head ↔ IDS feedthrough"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: IDSMF/APC/RT. ID: 1028969. Specs: Ambient, Ø 3 mm, 5 m, bend radius 4 cm, PVC jacket, FC/APC–SC/APC. Use / Notes: Sensor head ↔ IDS feedthrough."
+  },
+  {
+    "id": "1009980",
+    "model": "IDSMF/PC/RT",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "Standard RT fiber",
+      "Use / Notes": "Connects IDS ↔ RT sensor head or vacuum feedthrough"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: IDSMF/PC/RT. ID: 1009980. Specs: Standard RT fiber. Use / Notes: Connects IDS ↔ RT sensor head or vacuum feedthrough."
+  },
+  {
+    "id": "1009981",
+    "model": "IDSMF/APC/RT",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "Standard APC fiber",
+      "Use / Notes": "Connects IDS ↔ RT sensor head or vacuum feedthrough"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: IDSMF/APC/RT. ID: 1009981. Specs: Standard APC fiber. Use / Notes: Connects IDS ↔ RT sensor head or vacuum feedthrough."
+  },
+  {
+    "id": "1010858",
+    "model": "IDSMF/RAD",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "–",
+      "Use / Notes": "Radiation-hardened fiber"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: IDSMF/RAD. ID: 1010858. Specs: –. Use / Notes: Radiation-hardened fiber."
+  },
+  {
+    "id": "1009978",
+    "model": "Single Mode Coupler",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "SC/APC ↔ FC/APC",
+      "Use / Notes": "Female-female connector"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: Single Mode Coupler. ID: 1009978. Specs: SC/APC ↔ FC/APC. Use / Notes: Female-female connector."
+  },
+  {
+    "id": "1000938",
+    "model": "Single Mode Coupler",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "FC/APC ↔ FC/APC, Nickel-plated brass, ceramic (Zr), HV compatible",
+      "Use / Notes": "Female-female connector"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: Single Mode Coupler. ID: 1000938. Specs: FC/APC ↔ FC/APC, Nickel-plated brass, ceramic (Zr), HV compatible. Use / Notes: Female-female connector."
+  },
+  {
+    "id": "1011902",
+    "model": "Connector Coupler",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "SC/APC (male) ↔ FC/APC (female)",
+      "Use / Notes": "Couples IDS ↔ FPS fiber"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: Connector Coupler. ID: 1011902. Specs: SC/APC (male) ↔ FC/APC (female). Use / Notes: Couples IDS ↔ FPS fiber."
+  },
+  {
+    "id": "1023877",
+    "model": "Real-Time Cable",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "2 m, open ends, 3 quad cables, 6 twisted pairs",
+      "Use / Notes": "Up to 5 m with custom article 1013596"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: Real-Time Cable. ID: 1023877. Specs: 2 m, open ends, 3 quad cables, 6 twisted pairs. Use / Notes: Up to 5 m with custom article 1013596."
+  },
+  {
+    "id": "1011190",
+    "model": "Real-Time Connector",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "HDR-E26 MAG1+",
+      "Use / Notes": "–"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: Real-Time Connector. ID: 1011190. Specs: HDR-E26 MAG1+. Use / Notes: –."
+  },
+  {
+    "id": "1016772",
+    "model": "Fiber Cable Clip",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "Stainless steel, 3.4 mm bore (M3), for Ø 3 mm fibers",
+      "Use / Notes": "For /HV and /UHV; package of 10"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: Fiber Cable Clip. ID: 1016772. Specs: Stainless steel, 3.4 mm bore (M3), for Ø 3 mm fibers. Use / Notes: For /HV and /UHV; package of 10."
+  },
+  {
+    "id": "1015028",
+    "model": "Adjustable Clip /RT",
+    "category_path": "Sensing > Accessories > Fibers, Connectors, and Cables",
+    "attributes": {
+      "Specs": "Adhesive mount, 22.2 × 17.8 mm, polyamide/nylon",
+      "Use / Notes": "For RT use; package of 20"
+    },
+    "text": "Category: Sensing > Accessories > Fibers, Connectors, and Cables. Model: Adjustable Clip /RT. ID: 1015028. Specs: Adhesive mount, 22.2 × 17.8 mm, polyamide/nylon. Use / Notes: For RT use; package of 20."
+  },
+  {
+    "id": "1020184",
+    "model": "XY-Stage (Ø 12.7 mm Retroreflector)",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "Aluminum with precision steel leadscrew",
+      "Weight": "~51 g",
+      "Travel": "12.7 mm (0.35 mm/turn)"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: XY-Stage (Ø 12.7 mm Retroreflector). ID: 1020184. Specs / Description: Aluminum with precision steel leadscrew. Weight: ~51 g. Travel: 12.7 mm (0.35 mm/turn)."
+  },
+  {
+    "id": "1020182",
+    "model": "Retroreflector + Mount + XY-Stage (D12.7 /RT)",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "Aluminum, gold coating",
+      "Weight": "–"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: Retroreflector + Mount + XY-Stage (D12.7 /RT). ID: 1020182. Specs / Description: Aluminum, gold coating. Weight: –."
+  },
+  {
+    "id": "1016053",
+    "model": "Adapter Plate (D1.2 on SM1)",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "Aluminum",
+      "Weight": "~19.5 g"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: Adapter Plate (D1.2 on SM1). ID: 1016053. Specs / Description: Aluminum. Weight: ~19.5 g."
+  },
+  {
+    "id": "1016055",
+    "model": "Adapter Plate (D4 on SM1)",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "Aluminum",
+      "Weight": "~19.2 g"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: Adapter Plate (D4 on SM1). ID: 1016055. Specs / Description: Aluminum. Weight: ~19.2 g."
+  },
+  {
+    "id": "1016054",
+    "model": "Adapter Plate (D12 on SM1)",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "Aluminum",
+      "Weight": "~36.6 g"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: Adapter Plate (D12 on SM1). ID: 1016054. Specs / Description: Aluminum. Weight: ~36.6 g."
+  },
+  {
+    "id": "1016056",
+    "model": "Adapter Plate (M12x0.5 on SM1)",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "Aluminum",
+      "Weight": "~11 g"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: Adapter Plate (M12x0.5 on SM1). ID: 1016056. Specs / Description: Aluminum. Weight: ~11 g."
+  },
+  {
+    "id": "1016063",
+    "model": "L-Mount for M15.5",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "Aluminum",
+      "Weight": "~173 g",
+      "Sensor spacing": "40 mm ± 0.1 mm"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: L-Mount for M15.5. ID: 1016063. Specs / Description: Aluminum. Weight: ~173 g. Sensor spacing: 40 mm ± 0.1 mm."
+  },
+  {
+    "id": "1021202",
+    "model": "M12 Mount /HV /UHV",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "Stainless steel",
+      "Weight": "50.5 g",
+      "Grease": "Fomblin Y VAC3",
+      "3 adj. screws (0.15 mm pitch), 1 fix screw": "",
+      "±5° range": ""
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: M12 Mount /HV /UHV. ID: 1021202. Specs / Description: Stainless steel. Weight: 50.5 g. Grease: Fomblin Y VAC3. 3 adj. screws (0.15 mm pitch), 1 fix screw: . ±5° range: ."
+  },
+  {
+    "id": "1016060",
+    "model": "SM1-Threaded Kinematic Mount",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "–",
+      "Weight": "110 g"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: SM1-Threaded Kinematic Mount. ID: 1016060. Specs / Description: –. Weight: 110 g."
+  },
+  {
+    "id": "1016064",
+    "model": "Retroreflector Unit (Displacement + Angle)",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "–",
+      "Weight": "161 g"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: Retroreflector Unit (Displacement + Angle). ID: 1016064. Specs / Description: –. Weight: 161 g."
+  },
+  {
+    "id": "1016019",
+    "model": "M15.5 Flex Adapter for D4 Sensor Heads",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "Titanium",
+      "Weight": "~18 g",
+      "Flex structure (1010596) + D4 adapter (1024290)": ""
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: M15.5 Flex Adapter for D4 Sensor Heads. ID: 1016019. Specs / Description: Titanium. Weight: ~18 g. Flex structure (1010596) + D4 adapter (1024290): ."
+  },
+  {
+    "id": "1024290",
+    "model": "M12 Adapter for D4 Sensor Head",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "Titanium",
+      "Weight": "–"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: M12 Adapter for D4 Sensor Head. ID: 1024290. Specs / Description: Titanium. Weight: –."
+  },
+  {
+    "id": "1023502",
+    "model": "Tool: Remove M15.5 Adapter from M12 Base",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "–",
+      "Weight": "0.12 kg"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: Tool: Remove M15.5 Adapter from M12 Base. ID: 1023502. Specs / Description: –. Weight: 0.12 kg."
+  },
+  {
+    "id": "1016059",
+    "model": "Tool: Sensor Head Adapter",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "–",
+      "Weight": "~15 g"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: Tool: Sensor Head Adapter. ID: 1016059. Specs / Description: –. Weight: ~15 g."
+  },
+  {
+    "id": "1016057",
+    "model": "Posts for Sensor Head Mounts",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "Stainless steel",
+      "Weight": "30–100 g",
+      "Ø 12.7 mm": "",
+      "Heights: 30, 50, 100 mm": ""
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: Posts for Sensor Head Mounts. ID: 1016057. Specs / Description: Stainless steel. Weight: 30–100 g. Ø 12.7 mm: . Heights: 30, 50, 100 mm: ."
+  },
+  {
+    "id": "1016058",
+    "model": "Post Holder",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "Inner Ø 12.7 mm",
+      "Weight": "40–80 g",
+      "Heights: 30, 40, 76.2 mm": ""
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: Post Holder. ID: 1016058. Specs / Description: Inner Ø 12.7 mm. Weight: 40–80 g. Heights: 30, 40, 76.2 mm: ."
+  },
+  {
+    "id": "1026533",
+    "model": "Axis Calibration Kit (3-Axis)",
+    "category_path": "Sensing > Accessories > Optical Mounts",
+    "attributes": {
+      "Specs / Description": "–",
+      "Weight": "–"
+    },
+    "text": "Category: Sensing > Accessories > Optical Mounts. Model: Axis Calibration Kit (3-Axis). ID: 1026533. Specs / Description: –. Weight: –."
+  },
+  {
+    "id": "1016668",
+    "model": "AMC300",
+    "category_path": "Motion > Controller",
+    "attributes": {
+      "Type": "Multi-functional piezo controller",
+      "Axes supported": "Up to 3 (table top), up to 6 (rack)",
+      "Connectors to product": "3 × D-Sub HD 26-Pin",
+      "Open loop positioning": "AN* series (stepping & fine)",
+      "Closed loop positioning": "AN*/RES series",
+      "Remote operation": "USB 2.0, Ethernet, DS5",
+      "Multi-device control": "Daisy chaining (/PRO feature)",
+      "Chassis": "22×22×8.8 cm (table top); 19\", 2U (rack)",
+      "Weight": "~2 kg (table top); ~2.5/4.5 kg (rack)",
+      "Power supply": "100/115/230V, 50–60 Hz",
+      "Connector": "IEC inlet",
+      "Cable (ELE–POS)": "1 per axis, 2 m",
+      "Drivers": "JSON REST API, Python, LabVIEW, Matlab, C#, C",
+      "Voltage range": "Stepping: 0–65 V; Fine: ±65 VDC",
+      "Frequency range": "0–5 kHz (1 axis); 0–2 kHz (3 axes)",
+      "Output current": ">16 A peak",
+      "Max capacitance load": "2 µF",
+      "Output noise": "Stepping: <5 mVpp; Fine: <1.3 mVpp",
+      "Signal resolution": "680 µV (16 bit)",
+      "Trigger level": "LVDS, LVTTL",
+      "Input trigger": "1 per axis",
+      "Interface": "GPIO port",
+      "Remote Controller Type": "DS4 Dualshock",
+      "Modes": "Single steps, continuous (stick)",
+      "Range": "10 m (Bluetooth or cable)",
+      "Dual/tri-channel upgrade": "Yes",
+      "/PRO feature": "Included",
+      "/IO feature": "Included",
+      "/RC feature": "–",
+      "AMC/IDS feature": "–",
+      "Rotation Compensation": "–"
+    },
+    "text": "Category: Motion > Controller. Model: AMC300. ID: 1016668. Type: Multi-functional piezo controller. Axes supported: Up to 3 (table top), up to 6 (rack). Connectors to product: 3 × D-Sub HD 26-Pin. Open loop positioning: AN* series (stepping & fine). Closed loop positioning: AN*/RES series. Remote operation: USB 2.0, Ethernet, DS5. Multi-device control: Daisy chaining (/PRO feature). Chassis: 22×22×8.8 cm (table top); 19\", 2U (rack). Weight: ~2 kg (table top); ~2.5/4.5 kg (rack). Power supply: 100/115/230V, 50–60 Hz. Connector: IEC inlet. Cable (ELE–POS): 1 per axis, 2 m. Drivers: JSON REST API, Python, LabVIEW, Matlab, C#, C. Voltage range: Stepping: 0–65 V; Fine: ±65 VDC. Frequency range: 0–5 kHz (1 axis); 0–2 kHz (3 axes). Output current: >16 A peak. Max capacitance load: 2 µF. Output noise: Stepping: <5 mVpp; Fine: <1.3 mVpp. Signal resolution: 680 µV (16 bit). Trigger level: LVDS, LVTTL. Input trigger: 1 per axis. Interface: GPIO port. Remote Controller Type: DS4 Dualshock. Modes: Single steps, continuous (stick). Range: 10 m (Bluetooth or cable). Dual/tri-channel upgrade: Yes. /PRO feature: Included. /IO feature: Included. /RC feature: –. AMC/IDS feature: –. Rotation Compensation: –."
+  },
+  {
+    "id": "1023847",
+    "model": "AMC110",
+    "category_path": "Motion > Controller",
+    "attributes": {
+      "Type": "Piezo controller",
+      "Axes supported": "Up to 3",
+      "Connectors to product": "26-Pin SubD",
+      "Open loop positioning": "ECS (stepping)",
+      "Closed loop positioning": "ECS/NUM",
+      "Remote operation": "Ethernet, USB (adapter)",
+      "Multi-device control": "Yes",
+      "Chassis": "44.4×28×4.4 cm",
+      "Weight": "~4.1 kg",
+      "Power supply": "100/115/230V, 50–60 Hz",
+      "Connector": "IEC inlet",
+      "Cable (ELE–POS)": "1 per axis, 2 m",
+      "Drivers": "JSON REST API, Python, LabVIEW, Matlab, C#, C",
+      "Voltage range": "Stepping/Fine: 0–45 VDC",
+      "Frequency range": "Same",
+      "Output current": ">16 A peak",
+      "Max capacitance load": "2 µF",
+      "Output noise": "<5 mVpp",
+      "Signal resolution": "680 µV (16 bit)",
+      "Trigger level": "LVDS, LVTTL",
+      "Input trigger": "1 per axis",
+      "Interface": "GPIO port",
+      "Remote Controller Type": "–",
+      "Modes": "–",
+      "Range": "–",
+      "Dual/tri-channel upgrade": "–",
+      "/PRO feature": "Included",
+      "/IO feature": "Included",
+      "/RC feature": "Included",
+      "AMC/IDS feature": "Included",
+      "Rotation Compensation": "Included"
+    },
+    "text": "Category: Motion > Controller. Model: AMC110. ID: 1023847. Type: Piezo controller. Axes supported: Up to 3. Connectors to product: 26-Pin SubD. Open loop positioning: ECS (stepping). Closed loop positioning: ECS/NUM. Remote operation: Ethernet, USB (adapter). Multi-device control: Yes. Chassis: 44.4×28×4.4 cm. Weight: ~4.1 kg. Power supply: 100/115/230V, 50–60 Hz. Connector: IEC inlet. Cable (ELE–POS): 1 per axis, 2 m. Drivers: JSON REST API, Python, LabVIEW, Matlab, C#, C. Voltage range: Stepping/Fine: 0–45 VDC. Frequency range: Same. Output current: >16 A peak. Max capacitance load: 2 µF. Output noise: <5 mVpp. Signal resolution: 680 µV (16 bit). Trigger level: LVDS, LVTTL. Input trigger: 1 per axis. Interface: GPIO port. Remote Controller Type: –. Modes: –. Range: –. Dual/tri-channel upgrade: –. /PRO feature: Included. /IO feature: Included. /RC feature: Included. AMC/IDS feature: Included. Rotation Compensation: Included."
+  },
+  {
+    "id": "1013508",
+    "model": "AMC100",
+    "category_path": "Motion > Controller",
+    "attributes": {
+      "Type": "Piezo controller",
+      "Axes supported": "Up to 3",
+      "Connectors to product": "26-Pin SubD",
+      "Open loop positioning": "ECS (stepping)",
+      "Closed loop positioning": "ECS/NUM",
+      "Remote operation": "Ethernet, USB (adapter)",
+      "Multi-device control": "Yes",
+      "Chassis": "22×22×4.5 cm",
+      "Weight": "~2 kg",
+      "Power supply": "100/115/230V, 50–60 Hz",
+      "Connector": "IEC inlet",
+      "Cable (ELE–POS)": "1 per axis, 2 m",
+      "Drivers": "JSON, DLLs, LabVIEW, Standalone App",
+      "Voltage range": "Stepping/Fine: 0–45 VDC",
+      "Frequency range": "Same",
+      "Output current": ">16 A peak",
+      "Max capacitance load": "2 µF",
+      "Output noise": "<5 mVpp",
+      "Signal resolution": "680 µV (16 bit)",
+      "Trigger level": "LVDS, LVTTL",
+      "Input trigger": "1 per axis",
+      "Interface": "GPIO port",
+      "Remote Controller Type": "–",
+      "Modes": "–",
+      "Range": "–",
+      "Dual/tri-channel upgrade": "–",
+      "/PRO feature": "Included",
+      "/IO feature": "Included",
+      "/RC feature": "Included",
+      "AMC/IDS feature": "Included",
+      "Rotation Compensation": "Included"
+    },
+    "text": "Category: Motion > Controller. Model: AMC100. ID: 1013508. Type: Piezo controller. Axes supported: Up to 3. Connectors to product: 26-Pin SubD. Open loop positioning: ECS (stepping). Closed loop positioning: ECS/NUM. Remote operation: Ethernet, USB (adapter). Multi-device control: Yes. Chassis: 22×22×4.5 cm. Weight: ~2 kg. Power supply: 100/115/230V, 50–60 Hz. Connector: IEC inlet. Cable (ELE–POS): 1 per axis, 2 m. Drivers: JSON, DLLs, LabVIEW, Standalone App. Voltage range: Stepping/Fine: 0–45 VDC. Frequency range: Same. Output current: >16 A peak. Max capacitance load: 2 µF. Output noise: <5 mVpp. Signal resolution: 680 µV (16 bit). Trigger level: LVDS, LVTTL. Input trigger: 1 per axis. Interface: GPIO port. Remote Controller Type: –. Modes: –. Range: –. Dual/tri-channel upgrade: –. /PRO feature: Included. /IO feature: Included. /RC feature: Included. AMC/IDS feature: Included. Rotation Compensation: Included."
+  },
+  {
+    "id": "1005651",
+    "model": "ECSx3030/Al/RT",
+    "category_path": "Motion > EC Series > S Series",
+    "attributes": {
+      "Environment": "/RT",
+      "Operating Temp. Range": "17–25°C",
+      "Operating Humidity": "40–60%",
+      "Suitable Temp. Range": "–",
+      "Footprint": "30×30 mm",
+      "Height": "9.5 mm",
+      "Max Installation Space": "30×51.6 mm",
+      "Weight (Al version)": "29 g",
+      "Cable": "50 cm with connector",
+      "Body (RT)": "Aluminum",
+      "Body (/HV, /UHV)": "Stainless Steel",
+      "Actuator": "PZT ceramics",
+      "Wires": "Copper, PTFE",
+      "Travel Range": "20 mm",
+      "Max Velocity @ 300K": "4.5 mm/s",
+      "Input Voltage Range": "0–45 V",
+      "Range @ 300K": "1.6 µm",
+      "Resolution": "Sub-nm",
+      "Input DC Voltage Range": "0–45 V",
+      "Max Load": "1 kg",
+      "Max Dynamic Force": "1 N",
+      "Roll": "–"
+    },
+    "text": "Category: Motion > EC Series > S Series. Model: ECSx3030/Al/RT. ID: 1005651. Environment: /RT. Operating Temp. Range: 17–25°C. Operating Humidity: 40–60%. Suitable Temp. Range: –. Footprint: 30×30 mm. Height: 9.5 mm. Max Installation Space: 30×51.6 mm. Weight (Al version): 29 g. Cable: 50 cm with connector. Body (RT): Aluminum. Body (/HV, /UHV): Stainless Steel. Actuator: PZT ceramics. Wires: Copper, PTFE. Travel Range: 20 mm. Max Velocity @ 300K: 4.5 mm/s. Input Voltage Range: 0–45 V. Range @ 300K: 1.6 µm. Resolution: Sub-nm. Input DC Voltage Range: 0–45 V. Max Load: 1 kg. Max Dynamic Force: 1 N. Roll: –."
+  },
+  {
+    "id": "1005654",
+    "model": "ECSx3050/Al/RT",
+    "category_path": "Motion > EC Series > S Series",
+    "attributes": {
+      "Environment": "/RT",
+      "Operating Temp. Range": "17–25°C",
+      "Operating Humidity": "40–60%",
+      "Suitable Temp. Range": "–",
+      "Footprint": "30×50 mm",
+      "Height": "9.5 mm",
+      "Max Installation Space": "30×81.6 mm",
+      "Weight (Al version)": "49 g",
+      "Cable": "50 cm with connector",
+      "Body (RT)": "Aluminum",
+      "Body (/HV, /UHV)": "Stainless Steel",
+      "Actuator": "PZT ceramics",
+      "Wires": "Copper, PTFE",
+      "Travel Range": "30 mm",
+      "Max Velocity @ 300K": "4.5 mm/s",
+      "Input Voltage Range": "0–45 V",
+      "Range @ 300K": "1.6 µm",
+      "Resolution": "Sub-nm",
+      "Input DC Voltage Range": "0–45 V",
+      "Max Load": "2 kg",
+      "Max Dynamic Force": "1 N",
+      "Roll": "E_AX"
+    },
+    "text": "Category: Motion > EC Series > S Series. Model: ECSx3050/Al/RT. ID: 1005654. Environment: /RT. Operating Temp. Range: 17–25°C. Operating Humidity: 40–60%. Suitable Temp. Range: –. Footprint: 30×50 mm. Height: 9.5 mm. Max Installation Space: 30×81.6 mm. Weight (Al version): 49 g. Cable: 50 cm with connector. Body (RT): Aluminum. Body (/HV, /UHV): Stainless Steel. Actuator: PZT ceramics. Wires: Copper, PTFE. Travel Range: 30 mm. Max Velocity @ 300K: 4.5 mm/s. Input Voltage Range: 0–45 V. Range @ 300K: 1.6 µm. Resolution: Sub-nm. Input DC Voltage Range: 0–45 V. Max Load: 2 kg. Max Dynamic Force: 1 N. Roll: E_AX."
+  },
+  {
+    "id": "1006124",
+    "model": "ECSx5050/Al/RT",
+    "category_path": "Motion > EC Series > S Series",
+    "attributes": {
+      "Environment": "/RT",
+      "Operating Temp. Range": "17–25°C",
+      "Operating Humidity": "40–60%",
+      "Suitable Temp. Range": "–",
+      "Footprint": "50×50 mm",
+      "Height": "9.5 mm",
+      "Max Installation Space": "50×81.6 mm",
+      "Weight (Al version)": "70 g",
+      "Cable": "50 cm with connector",
+      "Body (RT)": "Aluminum",
+      "Body (/HV, /UHV)": "Stainless Steel",
+      "Actuator": "PZT ceramics",
+      "Wires": "Copper, PTFE",
+      "Travel Range": "30 mm",
+      "Max Velocity @ 300K": "4.5 mm/s",
+      "Input Voltage Range": "0–45 V",
+      "Range @ 300K": "1.6 µm",
+      "Resolution": "Sub-nm",
+      "Input DC Voltage Range": "0–45 V",
+      "Max Load": "2 kg",
+      "Max Dynamic Force": "1 N",
+      "Roll": "E_AX"
+    },
+    "text": "Category: Motion > EC Series > S Series. Model: ECSx5050/Al/RT. ID: 1006124. Environment: /RT. Operating Temp. Range: 17–25°C. Operating Humidity: 40–60%. Suitable Temp. Range: –. Footprint: 50×50 mm. Height: 9.5 mm. Max Installation Space: 50×81.6 mm. Weight (Al version): 70 g. Cable: 50 cm with connector. Body (RT): Aluminum. Body (/HV, /UHV): Stainless Steel. Actuator: PZT ceramics. Wires: Copper, PTFE. Travel Range: 30 mm. Max Velocity @ 300K: 4.5 mm/s. Input Voltage Range: 0–45 V. Range @ 300K: 1.6 µm. Resolution: Sub-nm. Input DC Voltage Range: 0–45 V. Max Load: 2 kg. Max Dynamic Force: 1 N. Roll: E_AX."
+  },
+  {
+    "id": "1005657",
+    "model": "ECSx3080/Al/RT",
+    "category_path": "Motion > EC Series > S Series",
+    "attributes": {
+      "Environment": "/RT",
+      "Operating Temp. Range": "17–25°C",
+      "Operating Humidity": "40–60%",
+      "Suitable Temp. Range": "–",
+      "Footprint": "30×80 mm",
+      "Height": "9.5 mm",
+      "Max Installation Space": "30×131.6 mm",
+      "Weight (Al version)": "78 g",
+      "Cable": "50 cm with connector",
+      "Body (RT)": "Aluminum",
+      "Body (/HV, /UHV)": "Stainless Steel",
+      "Actuator": "PZT ceramics",
+      "Wires": "Copper, PTFE",
+      "Travel Range": "50 mm",
+      "Max Velocity @ 300K": "4.5 mm/s",
+      "Input Voltage Range": "0–45 V",
+      "Range @ 300K": "1.6 µm",
+      "Resolution": "Sub-nm",
+      "Input DC Voltage Range": "0–45 V",
+      "Max Load": "2 kg",
+      "Max Dynamic Force": "1 N",
+      "Roll": "–"
+    },
+    "text": "Category: Motion > EC Series > S Series. Model: ECSx3080/Al/RT. ID: 1005657. Environment: /RT. Operating Temp. Range: 17–25°C. Operating Humidity: 40–60%. Suitable Temp. Range: –. Footprint: 30×80 mm. Height: 9.5 mm. Max Installation Space: 30×131.6 mm. Weight (Al version): 78 g. Cable: 50 cm with connector. Body (RT): Aluminum. Body (/HV, /UHV): Stainless Steel. Actuator: PZT ceramics. Wires: Copper, PTFE. Travel Range: 50 mm. Max Velocity @ 300K: 4.5 mm/s. Input Voltage Range: 0–45 V. Range @ 300K: 1.6 µm. Resolution: Sub-nm. Input DC Voltage Range: 0–45 V. Max Load: 2 kg. Max Dynamic Force: 1 N. Roll: –."
+  },
+  {
+    "id": "1011872",
+    "model": "ECSxy5050/Al/RT",
+    "category_path": "Motion > EC Series > S Series",
+    "attributes": {
+      "Environment": "/RT",
+      "Operating Temp. Range": "17–25°C",
+      "Operating Humidity": "40–60%",
+      "Suitable Temp. Range": "0–100°C",
+      "Footprint": "50×50 mm",
+      "Height": "16.4 mm",
+      "Max Installation Space": "75×75 mm",
+      "Weight (Al version)": "109 g",
+      "Cable": "50 cm with connector",
+      "Body (RT)": "Aluminum",
+      "Body (/HV, /UHV)": "–",
+      "Actuator": "PZT ceramics",
+      "Wires": "Copper, Fluoropolymer",
+      "Travel Range": "25 mm",
+      "Max Velocity @ 300K": "4.5 mm/s",
+      "Input Voltage Range": "0–45 V",
+      "Range @ 300K": "1.6 µm",
+      "Resolution": "Sub-nm",
+      "Input DC Voltage Range": "0–45 V",
+      "Max Load": "2 kg",
+      "Max Dynamic Force": "2 N",
+      "Roll": "–"
+    },
+    "text": "Category: Motion > EC Series > S Series. Model: ECSxy5050/Al/RT. ID: 1011872. Environment: /RT. Operating Temp. Range: 17–25°C. Operating Humidity: 40–60%. Suitable Temp. Range: 0–100°C. Footprint: 50×50 mm. Height: 16.4 mm. Max Installation Space: 75×75 mm. Weight (Al version): 109 g. Cable: 50 cm with connector. Body (RT): Aluminum. Body (/HV, /UHV): –. Actuator: PZT ceramics. Wires: Copper, Fluoropolymer. Travel Range: 25 mm. Max Velocity @ 300K: 4.5 mm/s. Input Voltage Range: 0–45 V. Range @ 300K: 1.6 µm. Resolution: Sub-nm. Input DC Voltage Range: 0–45 V. Max Load: 2 kg. Max Dynamic Force: 2 N. Roll: –."
+  },
+  {
+    "id": "1012096",
+    "model": "ECSz5050/Al/NUM/RT",
+    "category_path": "Motion > EC Series > S Series",
+    "attributes": {
+      "Environment": "/RT",
+      "Operating Temp. Range": "17–25°C",
+      "Operating Humidity": "40–60%",
+      "Suitable Temp. Range": "–",
+      "Footprint": "50×50 mm",
+      "Height": "32 mm",
+      "Max Installation Space": "50×50×40.5 mm",
+      "Weight (Al version)": "161 g",
+      "Cable": "50 cm with connector",
+      "Body (RT)": "Aluminum",
+      "Body (/HV, /UHV)": "–",
+      "Actuator": "PZT ceramics",
+      "Wires": "Copper, Teflon/PTFE",
+      "Travel Range": "8 mm",
+      "Max Velocity @ 300K": "2 mm/s",
+      "Input Voltage Range": "0–45 V",
+      "Range @ 300K": "0.8 µm",
+      "Resolution": "Sub-nm",
+      "Input DC Voltage Range": "0–45 V",
+      "Max Load": "400 g",
+      "Max Dynamic Force": "4 N",
+      "Roll": "–",
+      "Readout Mechanism": "Optoelectronic sensor",
+      "Encoded Travel Range": "Entire travel",
+      "Sensor Resolution": "1 nm",
+      "Sensor Power": "300 mW",
+      "Repeatability": "50 nm (bidirectional)",
+      "Min Movement (closed-loop)": "20 nm"
+    },
+    "text": "Category: Motion > EC Series > S Series. Model: ECSz5050/Al/NUM/RT. ID: 1012096. Environment: /RT. Operating Temp. Range: 17–25°C. Operating Humidity: 40–60%. Suitable Temp. Range: –. Footprint: 50×50 mm. Height: 32 mm. Max Installation Space: 50×50×40.5 mm. Weight (Al version): 161 g. Cable: 50 cm with connector. Body (RT): Aluminum. Body (/HV, /UHV): –. Actuator: PZT ceramics. Wires: Copper, Teflon/PTFE. Travel Range: 8 mm. Max Velocity @ 300K: 2 mm/s. Input Voltage Range: 0–45 V. Range @ 300K: 0.8 µm. Resolution: Sub-nm. Input DC Voltage Range: 0–45 V. Max Load: 400 g. Max Dynamic Force: 4 N. Roll: –. Readout Mechanism: Optoelectronic sensor. Encoded Travel Range: Entire travel. Sensor Resolution: 1 nm. Sensor Power: 300 mW. Repeatability: 50 nm (bidirectional). Min Movement (closed-loop): 20 nm."
+  },
+  {
+    "id": "1019917",
+    "model": "ECR3030/Al/RT",
+    "category_path": "Motion > EC Series > R Series",
+    "attributes": {
+      "Footprint": "30 × 30 mm",
+      "Height": "13.5 mm",
+      "Weight": "28 g",
+      "Cable": "50 cm with connector",
+      "Positioner Body": "Aluminum / SS",
+      "Actuator": "PZT ceramics",
+      "Connecting Wires": "Copper, Jacket: PTFE",
+      "Travel Range": "360° endless",
+      "Max Drive Velocity @ 300K": "10 °/s",
+      "Input Voltage Range": "0 – 45 V",
+      "Fine Angular Range @ 300K": "12 m°",
+      "Fine Positioning Resolution": "µ°",
+      "Input DC Voltage Range": "0 – 45 V",
+      "Max Load": "500 g",
+      "Max Dynamic Torque": "0.5 Ncm",
+      "Environment": "RT",
+      "Operating Temperature Range": "17 – 25 °C",
+      "Operating Humidity Range": "40 – 60 %"
+    },
+    "text": "Category: Motion > EC Series > R Series. Model: ECR3030/Al/RT. ID: 1019917. Footprint: 30 × 30 mm. Height: 13.5 mm. Weight: 28 g. Cable: 50 cm with connector. Positioner Body: Aluminum / SS. Actuator: PZT ceramics. Connecting Wires: Copper, Jacket: PTFE. Travel Range: 360° endless. Max Drive Velocity @ 300K: 10 °/s. Input Voltage Range: 0 – 45 V. Fine Angular Range @ 300K: 12 m°. Fine Positioning Resolution: µ°. Input DC Voltage Range: 0 – 45 V. Max Load: 500 g. Max Dynamic Torque: 0.5 Ncm. Environment: RT. Operating Temperature Range: 17 – 25 °C. Operating Humidity Range: 40 – 60 %."
+  },
+  {
+    "id": "1009634",
+    "model": "ECR4040/Al/RT",
+    "category_path": "Motion > EC Series > R Series",
+    "attributes": {
+      "Footprint": "40 × 40 mm",
+      "Height": "14.5 mm",
+      "Weight": "54 g",
+      "Cable": "50 cm with connector",
+      "Positioner Body": "Aluminum",
+      "Actuator": "PZT ceramics",
+      "Connecting Wires": "Copper, Jacket: PTFE",
+      "Travel Range": "360° endless",
+      "Max Drive Velocity @ 300K": "10 °/s",
+      "Input Voltage Range": "0 – 45 V",
+      "Fine Angular Range @ 300K": "6 m°",
+      "Fine Positioning Resolution": "µ°",
+      "Input DC Voltage Range": "0 – 45 V",
+      "Max Load": "2 kg",
+      "Max Dynamic Torque": "1 Ncm",
+      "Environment": "RT",
+      "Operating Temperature Range": "17 – 25 °C",
+      "Operating Humidity Range": "40 – 60 %"
+    },
+    "text": "Category: Motion > EC Series > R Series. Model: ECR4040/Al/RT. ID: 1009634. Footprint: 40 × 40 mm. Height: 14.5 mm. Weight: 54 g. Cable: 50 cm with connector. Positioner Body: Aluminum. Actuator: PZT ceramics. Connecting Wires: Copper, Jacket: PTFE. Travel Range: 360° endless. Max Drive Velocity @ 300K: 10 °/s. Input Voltage Range: 0 – 45 V. Fine Angular Range @ 300K: 6 m°. Fine Positioning Resolution: µ°. Input DC Voltage Range: 0 – 45 V. Max Load: 2 kg. Max Dynamic Torque: 1 Ncm. Environment: RT. Operating Temperature Range: 17 – 25 °C. Operating Humidity Range: 40 – 60 %."
+  },
+  {
+    "id": "1012481",
+    "model": "ECR5050hs/Al/RT",
+    "category_path": "Motion > EC Series > R Series",
+    "attributes": {
+      "Footprint": "50 × 50 mm",
+      "Height": "15 mm",
+      "Weight": "102 g",
+      "Cable": "50 cm with connector",
+      "Positioner Body": "Aluminum",
+      "Actuator": "PZT ceramics",
+      "Connecting Wires": "Copper, Jacket: PTFE",
+      "Travel Range": "360° endless",
+      "Max Drive Velocity @ 300K": "15 °/s",
+      "Input Voltage Range": "0 – 45 V",
+      "Fine Angular Range @ 300K": "15 m°",
+      "Fine Positioning Resolution": "µ°",
+      "Input DC Voltage Range": "0 – 45 V",
+      "Max Load": "2 kg",
+      "Max Dynamic Torque": "1 Ncm",
+      "Environment": "RT",
+      "Operating Temperature Range": "17 – 25 °C",
+      "Operating Humidity Range": "40 – 60 %"
+    },
+    "text": "Category: Motion > EC Series > R Series. Model: ECR5050hs/Al/RT. ID: 1012481. Footprint: 50 × 50 mm. Height: 15 mm. Weight: 102 g. Cable: 50 cm with connector. Positioner Body: Aluminum. Actuator: PZT ceramics. Connecting Wires: Copper, Jacket: PTFE. Travel Range: 360° endless. Max Drive Velocity @ 300K: 15 °/s. Input Voltage Range: 0 – 45 V. Fine Angular Range @ 300K: 15 m°. Fine Positioning Resolution: µ°. Input DC Voltage Range: 0 – 45 V. Max Load: 2 kg. Max Dynamic Torque: 1 Ncm. Environment: RT. Operating Temperature Range: 17 – 25 °C. Operating Humidity Range: 40 – 60 %."
+  },
+  {
+    "id": "1006222",
+    "model": "ECGp5050/Al/RT",
+    "category_path": "Motion > EC Series > G Series",
+    "attributes": {
+      "Footprint": "50 × 50 mm",
+      "Height": "17 mm",
+      "Weight": "137 g",
+      "Cable": "50 cm w/ connector",
+      "Center of Rotation to Bottom": "94 mm",
+      "Max Installation Space": "50 × 69.8 × 19.5 mm",
+      "Positioner Body": "Al / SS",
+      "Actuator": "PZT ceramics",
+      "Connecting Wires": "Copper, PTFE",
+      "Travel Range": "10°",
+      "Max Drive Velocity @ 300K": "3 °/s",
+      "Input Voltage Range": "0 – 45 V",
+      "Fine Angular Range @ 300K": "1.1 m°",
+      "Fine Positioning Resolution": "µ°",
+      "Input DC Voltage Range": "0 – 45 V",
+      "Max Load": "1 kg",
+      "Max Dynamic Torque": "8.7 Ncm",
+      "Environment": "RT",
+      "Operating Temperature Range": "17 – 25 °C",
+      "Operating Humidity Range": "40 – 60 %"
+    },
+    "text": "Category: Motion > EC Series > G Series. Model: ECGp5050/Al/RT. ID: 1006222. Footprint: 50 × 50 mm. Height: 17 mm. Weight: 137 g. Cable: 50 cm w/ connector. Center of Rotation to Bottom: 94 mm. Max Installation Space: 50 × 69.8 × 19.5 mm. Positioner Body: Al / SS. Actuator: PZT ceramics. Connecting Wires: Copper, PTFE. Travel Range: 10°. Max Drive Velocity @ 300K: 3 °/s. Input Voltage Range: 0 – 45 V. Fine Angular Range @ 300K: 1.1 m°. Fine Positioning Resolution: µ°. Input DC Voltage Range: 0 – 45 V. Max Load: 1 kg. Max Dynamic Torque: 8.7 Ncm. Environment: RT. Operating Temperature Range: 17 – 25 °C. Operating Humidity Range: 40 – 60 %."
+  },
+  {
+    "id": "1006214",
+    "model": "ECGt5050/Al/RT",
+    "category_path": "Motion > EC Series > G Series",
+    "attributes": {
+      "Footprint": "50 × 50 mm",
+      "Height": "17 mm",
+      "Weight": "137 g",
+      "Cable": "50 cm w/ connector",
+      "Center of Rotation to Bottom": "77 mm",
+      "Max Installation Space": "50 × 67.6 × 19.4 mm",
+      "Positioner Body": "Al / SS",
+      "Actuator": "PZT ceramics",
+      "Connecting Wires": "Copper, PTFE",
+      "Travel Range": "10°",
+      "Max Drive Velocity @ 300K": "3 °/s",
+      "Input Voltage Range": "0 – 45 V",
+      "Fine Angular Range @ 300K": "1.4 m°",
+      "Fine Positioning Resolution": "µ°",
+      "Input DC Voltage Range": "0 – 45 V",
+      "Max Load": "1 kg",
+      "Max Dynamic Torque": "7 Ncm",
+      "Environment": "RT",
+      "Operating Temperature Range": "17 – 25 °C",
+      "Operating Humidity Range": "40 – 60 %"
+    },
+    "text": "Category: Motion > EC Series > G Series. Model: ECGt5050/Al/RT. ID: 1006214. Footprint: 50 × 50 mm. Height: 17 mm. Weight: 137 g. Cable: 50 cm w/ connector. Center of Rotation to Bottom: 77 mm. Max Installation Space: 50 × 67.6 × 19.4 mm. Positioner Body: Al / SS. Actuator: PZT ceramics. Connecting Wires: Copper, PTFE. Travel Range: 10°. Max Drive Velocity @ 300K: 3 °/s. Input Voltage Range: 0 – 45 V. Fine Angular Range @ 300K: 1.4 m°. Fine Positioning Resolution: µ°. Input DC Voltage Range: 0 – 45 V. Max Load: 1 kg. Max Dynamic Torque: 7 Ncm. Environment: RT. Operating Temperature Range: 17 – 25 °C. Operating Humidity Range: 40 – 60 %."
+  },
+  {
+    "id": "1011297",
+    "model": "ECS Lift/3030",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Item": "ECS Lift/3030",
+      "Details": "Modular extension for constant force; includes springs: 5 N, 8.8 N, 14.7 N"
+    },
+    "text": "Category: Motion > Accessories. Model: ECS Lift/3030. ID: 1011297. Item: ECS Lift/3030. Details: Modular extension for constant force; includes springs: 5 N, 8.8 N, 14.7 N."
+  },
+  {
+    "id": "1011298",
+    "model": "ECS Lift/5050",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Item": "ECS Lift/5050",
+      "Details": "Modular extension for constant force; includes springs: 10.5 N, 17.9 N, 22 N"
+    },
+    "text": "Category: Motion > Accessories. Model: ECS Lift/5050. ID: 1011298. Item: ECS Lift/5050. Details: Modular extension for constant force; includes springs: 10.5 N, 17.9 N, 22 N."
+  },
+  {
+    "id": "1011359, 1011357, 1011358",
+    "model": "ECS Lift/3030 - Springs",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Item": "ECS Lift/3030 - Springs",
+      "Details": "Individual springs for 5 N, 8.8 N, 14.7 N"
+    },
+    "text": "Category: Motion > Accessories. Model: ECS Lift/3030 - Springs. ID: 1011359, 1011357, 1011358. Item: ECS Lift/3030 - Springs. Details: Individual springs for 5 N, 8.8 N, 14.7 N."
+  },
+  {
+    "id": "1011361, 1011362, 1011360",
+    "model": "ECS Lift/5050 - Springs",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Item": "ECS Lift/5050 - Springs",
+      "Details": "Individual springs for 10.5 N, 17.9 N, 22 N"
+    },
+    "text": "Category: Motion > Accessories. Model: ECS Lift/5050 - Springs. ID: 1011361, 1011362, 1011360. Item: ECS Lift/5050 - Springs. Details: Individual springs for 10.5 N, 17.9 N, 22 N."
+  },
+  {
+    "id": "1015853",
+    "model": "EVFT 40CF",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Norm": "DIN 41652, MIL-C-24308",
+      "Pin Diameter": "1.0 mm",
+      "Pin Material": "NiFe, gold coated",
+      "Test Voltage": "500 V DC",
+      "Max Current per Pin": "0,208333333",
+      "Continuous Current (all pins)": "0,125",
+      "Temperature Range": "-200°C to 230°C",
+      "Leakage Rate": "< 5×10⁻¹⁰ mbar·l/s He",
+      "Seal Type": "Glass-ceramic",
+      "Flange Material": "Stainless Steel 316L",
+      "Weight": "350 g",
+      "Max Inner Diameter": "40.8 mm",
+      "Plug Outer Diameter": "38 mm",
+      "Sealing Method": "Copper gasket, screws",
+      "Use Case": "UHV & bakeout",
+      "Notes": "Copper gaskets single-use"
+    },
+    "text": "Category: Motion > Accessories. Model: EVFT 40CF. ID: 1015853. Norm: DIN 41652, MIL-C-24308. Pin Diameter: 1.0 mm. Pin Material: NiFe, gold coated. Test Voltage: 500 V DC. Max Current per Pin: 0,208333333. Continuous Current (all pins): 0,125. Temperature Range: -200°C to 230°C. Leakage Rate: < 5×10⁻¹⁰ mbar·l/s He. Seal Type: Glass-ceramic. Flange Material: Stainless Steel 316L. Weight: 350 g. Max Inner Diameter: 40.8 mm. Plug Outer Diameter: 38 mm. Sealing Method: Copper gasket, screws. Use Case: UHV & bakeout. Notes: Copper gaskets single-use."
+  },
+  {
+    "id": "1015854",
+    "model": "EVFT 63CF",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Norm": "DIN 41652, MIL-C-24308",
+      "Pin Diameter": "1.0 mm",
+      "Pin Material": "NiFe, gold coated",
+      "Test Voltage": "500 V DC",
+      "Max Current per Pin": "0,208333333",
+      "Continuous Current (all pins)": "0,125",
+      "Temperature Range": "-200°C to 230°C",
+      "Leakage Rate": "< 5×10⁻¹⁰ mbar·l/s He",
+      "Seal Type": "Glass-ceramic",
+      "Flange Material": "Stainless Steel 316L",
+      "Weight": "1100 g",
+      "Max Inner Diameter": "76.8 mm",
+      "Plug Outer Diameter": "~58–60 mm",
+      "Sealing Method": "Copper gasket",
+      "Use Case": "UHV & bakeout",
+      "Notes": "–"
+    },
+    "text": "Category: Motion > Accessories. Model: EVFT 63CF. ID: 1015854. Norm: DIN 41652, MIL-C-24308. Pin Diameter: 1.0 mm. Pin Material: NiFe, gold coated. Test Voltage: 500 V DC. Max Current per Pin: 0,208333333. Continuous Current (all pins): 0,125. Temperature Range: -200°C to 230°C. Leakage Rate: < 5×10⁻¹⁰ mbar·l/s He. Seal Type: Glass-ceramic. Flange Material: Stainless Steel 316L. Weight: 1100 g. Max Inner Diameter: 76.8 mm. Plug Outer Diameter: ~58–60 mm. Sealing Method: Copper gasket. Use Case: UHV & bakeout. Notes: –."
+  },
+  {
+    "id": "1015855",
+    "model": "EVFT 40KF",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Norm": "DIN 41652, MIL-C-24308",
+      "Pin Diameter": "1.0 mm",
+      "Pin Material": "NiFe, gold coated",
+      "Test Voltage": "500 V DC",
+      "Max Current per Pin": "0,208333333",
+      "Continuous Current (all pins)": "0,125",
+      "Temperature Range": "-40°C to 200°C",
+      "Leakage Rate": "< 1×10⁻⁹ mbar·l/s He",
+      "Seal Type": "Glass-ceramic",
+      "Flange Material": "Stainless Steel 316L",
+      "Weight": "99 g",
+      "Max Inner Diameter": "41.2 mm",
+      "Plug Outer Diameter": "38 mm",
+      "Sealing Method": "O-ring sealed",
+      "Use Case": "HV",
+      "Notes": "KF type (≤50 mm)"
+    },
+    "text": "Category: Motion > Accessories. Model: EVFT 40KF. ID: 1015855. Norm: DIN 41652, MIL-C-24308. Pin Diameter: 1.0 mm. Pin Material: NiFe, gold coated. Test Voltage: 500 V DC. Max Current per Pin: 0,208333333. Continuous Current (all pins): 0,125. Temperature Range: -40°C to 200°C. Leakage Rate: < 1×10⁻⁹ mbar·l/s He. Seal Type: Glass-ceramic. Flange Material: Stainless Steel 316L. Weight: 99 g. Max Inner Diameter: 41.2 mm. Plug Outer Diameter: 38 mm. Sealing Method: O-ring sealed. Use Case: HV. Notes: KF type (≤50 mm)."
+  },
+  {
+    "id": "1015856",
+    "model": "EVFT 63KF",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Norm": "DIN 41652, MIL-C-24308",
+      "Pin Diameter": "1.0 mm",
+      "Pin Material": "NiFe, gold coated",
+      "Test Voltage": "500 V DC",
+      "Max Current per Pin": "0,208333333",
+      "Continuous Current (all pins)": "0,125",
+      "Temperature Range": "-40°C to 200°C",
+      "Leakage Rate": "< 1×10⁻⁹ mbar·l/s He",
+      "Seal Type": "Glass-ceramic",
+      "Flange Material": "Stainless Steel 316L",
+      "Weight": "294 g",
+      "Max Inner Diameter": "80 mm",
+      "Plug Outer Diameter": "~58–60 mm",
+      "Sealing Method": "O-ring sealed",
+      "Use Case": "HV",
+      "Notes": "ISO-K type (>50 mm), Double Claw Clamps"
+    },
+    "text": "Category: Motion > Accessories. Model: EVFT 63KF. ID: 1015856. Norm: DIN 41652, MIL-C-24308. Pin Diameter: 1.0 mm. Pin Material: NiFe, gold coated. Test Voltage: 500 V DC. Max Current per Pin: 0,208333333. Continuous Current (all pins): 0,125. Temperature Range: -40°C to 200°C. Leakage Rate: < 1×10⁻⁹ mbar·l/s He. Seal Type: Glass-ceramic. Flange Material: Stainless Steel 316L. Weight: 294 g. Max Inner Diameter: 80 mm. Plug Outer Diameter: ~58–60 mm. Sealing Method: O-ring sealed. Use Case: HV. Notes: ISO-K type (>50 mm), Double Claw Clamps."
+  },
+  {
+    "id": "1020999",
+    "model": "AMCC/1/NUM/14-Binder/2.0/RT",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Length": "2 m",
+      "Custom Length": "300–4000 mm",
+      "Controller Side Connector": "SubD-26HD (AMC100)",
+      "Positioner Side Connector": "14-pin circular",
+      "Cable Diameter": "7.9 mm",
+      "Bending Radius": "60 mm / 120 mm",
+      "Flammability Standard": "VDE0472-832-1-2",
+      "Positioner Type Compatibility": "Industrial line /RT",
+      "Controller Compatibility": "AMC100",
+      "Feedthrough Compatibility": "–",
+      "Max Piezo Capacity": "–",
+      "Usage Notes Restrictions": "–",
+      "Alternate Connector Customization": "–",
+      "Price Addition": "150"
+    },
+    "text": "Category: Motion > Accessories. Model: AMCC/1/NUM/14-Binder/2.0/RT. ID: 1020999. Length: 2 m. Custom Length: 300–4000 mm. Controller Side Connector: SubD-26HD (AMC100). Positioner Side Connector: 14-pin circular. Cable Diameter: 7.9 mm. Bending Radius: 60 mm / 120 mm. Flammability Standard: VDE0472-832-1-2. Positioner Type Compatibility: Industrial line /RT. Controller Compatibility: AMC100. Feedthrough Compatibility: –. Max Piezo Capacity: –. Usage Notes Restrictions: –. Alternate Connector Customization: –. Price Addition: 150."
+  },
+  {
+    "id": "1020988",
+    "model": "AMCC/1/RES/5-pin/2.0/RT",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Length": "2 m",
+      "Custom Length": "300–4000 mm",
+      "Controller Side Connector": "SubD-26 (AMC300)",
+      "Positioner Side Connector": "5-pin socket",
+      "Cable Diameter": "–",
+      "Bending Radius": "–",
+      "Flammability Standard": "–",
+      "Positioner Type Compatibility": "AN*/RES/LT or (U)HV",
+      "Controller Compatibility": "AMC300",
+      "Feedthrough Compatibility": "–",
+      "Max Piezo Capacity": "1.7 µF",
+      "Usage Notes Restrictions": "Not for rotators or ninja-op",
+      "Alternate Connector Customization": "BNC instead of 5-pin",
+      "Price Addition": "100"
+    },
+    "text": "Category: Motion > Accessories. Model: AMCC/1/RES/5-pin/2.0/RT. ID: 1020988. Length: 2 m. Custom Length: 300–4000 mm. Controller Side Connector: SubD-26 (AMC300). Positioner Side Connector: 5-pin socket. Cable Diameter: –. Bending Radius: –. Flammability Standard: –. Positioner Type Compatibility: AN*/RES/LT or (U)HV. Controller Compatibility: AMC300. Feedthrough Compatibility: –. Max Piezo Capacity: 1.7 µF. Usage Notes Restrictions: Not for rotators or ninja-op. Alternate Connector Customization: BNC instead of 5-pin. Price Addition: 100."
+  },
+  {
+    "id": "1021000",
+    "model": "AMCC/1/NUM/Yamaichi/2.0/RT",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Length": "2 m",
+      "Custom Length": "–",
+      "Controller Side Connector": "SubD-26HD (AMC100)",
+      "Positioner Side Connector": "15-pin circular (Yamaichi)",
+      "Cable Diameter": "–",
+      "Bending Radius": "–",
+      "Flammability Standard": "–",
+      "Positioner Type Compatibility": "Special cases only",
+      "Controller Compatibility": "AMC100",
+      "Feedthrough Compatibility": "Yamaichi",
+      "Max Piezo Capacity": "–",
+      "Usage Notes Restrictions": "Not compatible with standard POS",
+      "Alternate Connector Customization": "–",
+      "Price Addition": "–"
+    },
+    "text": "Category: Motion > Accessories. Model: AMCC/1/NUM/Yamaichi/2.0/RT. ID: 1021000. Length: 2 m. Custom Length: –. Controller Side Connector: SubD-26HD (AMC100). Positioner Side Connector: 15-pin circular (Yamaichi). Cable Diameter: –. Bending Radius: –. Flammability Standard: –. Positioner Type Compatibility: Special cases only. Controller Compatibility: AMC100. Feedthrough Compatibility: Yamaichi. Max Piezo Capacity: –. Usage Notes Restrictions: Not compatible with standard POS. Alternate Connector Customization: –. Price Addition: –."
+  },
+  {
+    "id": "1015998",
+    "model": "ATC100/35",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Standard",
+      "Foil Length (mm)": "35",
+      "Conductance @5K": "~45 mW/K",
+      "Compatible Stack": "ANPxy101",
+      "Sensor Temp Range": "–",
+      "Accuracy @4.2K": "–",
+      "Heater Resistance": "–",
+      "Power": "–",
+      "Current": "–"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC100/35. ID: 1015998. Type: Standard. Foil Length (mm): 35. Conductance @5K: ~45 mW/K. Compatible Stack: ANPxy101. Sensor Temp Range: –. Accuracy @4.2K: –. Heater Resistance: –. Power: –. Current: –."
+  },
+  {
+    "id": "1015999",
+    "model": "ATC100/60",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Standard",
+      "Foil Length (mm)": "60",
+      "Conductance @5K": "~31 mW/K",
+      "Compatible Stack": "ANPxyz101, ANPxy311 + ANSxyz100 + Adapter, ANPxy311 + ANPz101 + Adapter",
+      "Sensor Temp Range": "–",
+      "Accuracy @4.2K": "–",
+      "Heater Resistance": "–",
+      "Power": "–",
+      "Current": "–"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC100/60. ID: 1015999. Type: Standard. Foil Length (mm): 60. Conductance @5K: ~31 mW/K. Compatible Stack: ANPxyz101, ANPxy311 + ANSxyz100 + Adapter, ANPxy311 + ANPz101 + Adapter. Sensor Temp Range: –. Accuracy @4.2K: –. Heater Resistance: –. Power: –. Current: –."
+  },
+  {
+    "id": "1016000",
+    "model": "ATC100/70",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Standard",
+      "Foil Length (mm)": "70",
+      "Conductance @5K": "~26 mW/K",
+      "Compatible Stack": "ANPxyz101 + ANSxyz100, ANPxy102 + ANPz102, ANPxy311 + ANPz101 + ANSxyz100 + Adapter, ANPxy311 + ANPz102 + Adapter",
+      "Sensor Temp Range": "–",
+      "Accuracy @4.2K": "–",
+      "Heater Resistance": "–",
+      "Power": "–",
+      "Current": "–"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC100/70. ID: 1016000. Type: Standard. Foil Length (mm): 70. Conductance @5K: ~26 mW/K. Compatible Stack: ANPxyz101 + ANSxyz100, ANPxy102 + ANPz102, ANPxy311 + ANPz101 + ANSxyz100 + Adapter, ANPxy311 + ANPz102 + Adapter. Sensor Temp Range: –. Accuracy @4.2K: –. Heater Resistance: –. Power: –. Current: –."
+  },
+  {
+    "id": "1016001",
+    "model": "ATC100/80",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Standard",
+      "Foil Length (mm)": "80",
+      "Conductance @5K": "~20 mW/K",
+      "Compatible Stack": "ANPxy101 + ANPz102 + ANSxyz100, ANPxy311 + ANPz102 + ANSxyz100",
+      "Sensor Temp Range": "–",
+      "Accuracy @4.2K": "–",
+      "Heater Resistance": "–",
+      "Power": "–",
+      "Current": "–"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC100/80. ID: 1016001. Type: Standard. Foil Length (mm): 80. Conductance @5K: ~20 mW/K. Compatible Stack: ANPxy101 + ANPz102 + ANSxyz100, ANPxy311 + ANPz102 + ANSxyz100. Sensor Temp Range: –. Accuracy @4.2K: –. Heater Resistance: –. Power: –. Current: –."
+  },
+  {
+    "id": "1022136",
+    "model": "ATC100/100",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Standard",
+      "Foil Length (mm)": "100",
+      "Conductance @5K": "~18 mW/K",
+      "Compatible Stack": "ANPxy101 + ANPz102 + ANSxy100 + ANSz100lr",
+      "Sensor Temp Range": "–",
+      "Accuracy @4.2K": "–",
+      "Heater Resistance": "–",
+      "Power": "–",
+      "Current": "–"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC100/100. ID: 1022136. Type: Standard. Foil Length (mm): 100. Conductance @5K: ~18 mW/K. Compatible Stack: ANPxy101 + ANPz102 + ANSxy100 + ANSz100lr. Sensor Temp Range: –. Accuracy @4.2K: –. Heater Resistance: –. Power: –. Current: –."
+  },
+  {
+    "id": "1019452",
+    "model": "ATC100/Cer/35",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Cer + Heater",
+      "Foil Length (mm)": "35",
+      "Conductance @5K": "~45 mW/K",
+      "Compatible Stack": "ANPxy101",
+      "Sensor Temp Range": "1.4 K – 325 K",
+      "Accuracy @4.2K": "±5 mK",
+      "Heater Resistance": "50 Ohm",
+      "Power": "5 W",
+      "Current": "0.3 A"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC100/Cer/35. ID: 1019452. Type: Cer + Heater. Foil Length (mm): 35. Conductance @5K: ~45 mW/K. Compatible Stack: ANPxy101. Sensor Temp Range: 1.4 K – 325 K. Accuracy @4.2K: ±5 mK. Heater Resistance: 50 Ohm. Power: 5 W. Current: 0.3 A."
+  },
+  {
+    "id": "1019453",
+    "model": "ATC100/Cer/60",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Cer + Heater",
+      "Foil Length (mm)": "60",
+      "Conductance @5K": "~31 mW/K",
+      "Compatible Stack": "ANPxyz101, ANPxy311 + ANSxyz100 + Adapter, ANPxy311 + ANPz101 + Adapter",
+      "Sensor Temp Range": "1.4 K – 325 K",
+      "Accuracy @4.2K": "±5 mK",
+      "Heater Resistance": "50 Ohm",
+      "Power": "5 W",
+      "Current": "0.3 A"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC100/Cer/60. ID: 1019453. Type: Cer + Heater. Foil Length (mm): 60. Conductance @5K: ~31 mW/K. Compatible Stack: ANPxyz101, ANPxy311 + ANSxyz100 + Adapter, ANPxy311 + ANPz101 + Adapter. Sensor Temp Range: 1.4 K – 325 K. Accuracy @4.2K: ±5 mK. Heater Resistance: 50 Ohm. Power: 5 W. Current: 0.3 A."
+  },
+  {
+    "id": "1019454",
+    "model": "ATC100/Cer/70",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Cer + Heater",
+      "Foil Length (mm)": "70",
+      "Conductance @5K": "~26 mW/K",
+      "Compatible Stack": "ANPxyz101 + ANSxyz100, ANPxy102 + ANPz102, ANPxy311 + ANPz101 + ANSxyz100 + Adapter, ANPxy311 + ANPz102 + Adapter",
+      "Sensor Temp Range": "1.4 K – 325 K",
+      "Accuracy @4.2K": "±5 mK",
+      "Heater Resistance": "50 Ohm",
+      "Power": "5 W",
+      "Current": "0.3 A"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC100/Cer/70. ID: 1019454. Type: Cer + Heater. Foil Length (mm): 70. Conductance @5K: ~26 mW/K. Compatible Stack: ANPxyz101 + ANSxyz100, ANPxy102 + ANPz102, ANPxy311 + ANPz101 + ANSxyz100 + Adapter, ANPxy311 + ANPz102 + Adapter. Sensor Temp Range: 1.4 K – 325 K. Accuracy @4.2K: ±5 mK. Heater Resistance: 50 Ohm. Power: 5 W. Current: 0.3 A."
+  },
+  {
+    "id": "1019455",
+    "model": "ATC100/Cer/80",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Cer + Heater",
+      "Foil Length (mm)": "80",
+      "Conductance @5K": "~20 mW/K",
+      "Compatible Stack": "ANPxy101 + ANPz102 + ANSxyz100, ANPxy311 + ANPz102 + ANSxyz100",
+      "Sensor Temp Range": "1.4 K – 325 K",
+      "Accuracy @4.2K": "±5 mK",
+      "Heater Resistance": "50 Ohm",
+      "Power": "5 W",
+      "Current": "0.3 A"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC100/Cer/80. ID: 1019455. Type: Cer + Heater. Foil Length (mm): 80. Conductance @5K: ~20 mW/K. Compatible Stack: ANPxy101 + ANPz102 + ANSxyz100, ANPxy311 + ANPz102 + ANSxyz100. Sensor Temp Range: 1.4 K – 325 K. Accuracy @4.2K: ±5 mK. Heater Resistance: 50 Ohm. Power: 5 W. Current: 0.3 A."
+  },
+  {
+    "id": "1022129",
+    "model": "ATC100/Cer/100",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Cer + Heater",
+      "Foil Length (mm)": "100",
+      "Conductance @5K": "~18 mW/K",
+      "Compatible Stack": "ANPxy101 + ANPz102 + ANSxy100 + ANSz100lr",
+      "Sensor Temp Range": "1.4 K – 325 K",
+      "Accuracy @4.2K": "±5 mK",
+      "Heater Resistance": "50 Ohm",
+      "Power": "5 W",
+      "Current": "0.3 A"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC100/Cer/100. ID: 1022129. Type: Cer + Heater. Foil Length (mm): 100. Conductance @5K: ~18 mW/K. Compatible Stack: ANPxy101 + ANPz102 + ANSxy100 + ANSz100lr. Sensor Temp Range: 1.4 K – 325 K. Accuracy @4.2K: ±5 mK. Heater Resistance: 50 Ohm. Power: 5 W. Current: 0.3 A."
+  },
+  {
+    "id": "1019497",
+    "model": "ATC50/45",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Standard",
+      "Foil Length (mm)": "–",
+      "Conductance @5K": "–",
+      "Compatible Stack": "–",
+      "Sensor Temp Range": "–",
+      "Accuracy @4.2K": "–",
+      "Heater Resistance": "–",
+      "Power": "–",
+      "Current": "–"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC50/45. ID: 1019497. Type: Standard. Foil Length (mm): –. Conductance @5K: –. Compatible Stack: –. Sensor Temp Range: –. Accuracy @4.2K: –. Heater Resistance: –. Power: –. Current: –."
+  },
+  {
+    "id": "1019451",
+    "model": "ATC50/Cer",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Cer + Heater",
+      "Foil Length (mm)": "–",
+      "Conductance @5K": "–",
+      "Compatible Stack": "–",
+      "Sensor Temp Range": "1.4 K – 325 K",
+      "Accuracy @4.2K": "±5 mK",
+      "Heater Resistance": "50 Ohm",
+      "Power": "5 W",
+      "Current": "0.3 A"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC50/Cer. ID: 1019451. Type: Cer + Heater. Foil Length (mm): –. Conductance @5K: –. Compatible Stack: –. Sensor Temp Range: 1.4 K – 325 K. Accuracy @4.2K: ±5 mK. Heater Resistance: 50 Ohm. Power: 5 W. Current: 0.3 A."
+  },
+  {
+    "id": "1019346",
+    "model": "ATC/cust",
+    "category_path": "Motion > Accessories",
+    "attributes": {
+      "Type": "Customized",
+      "Foil Length (mm)": "35–100",
+      "Conductance @5K": "–",
+      "Compatible Stack": "–",
+      "Sensor Temp Range": "–",
+      "Accuracy @4.2K": "–",
+      "Heater Resistance": "–",
+      "Power": "–",
+      "Current": "–"
+    },
+    "text": "Category: Motion > Accessories. Model: ATC/cust. ID: 1019346. Type: Customized. Foil Length (mm): 35–100. Conductance @5K: –. Compatible Stack: –. Sensor Temp Range: –. Accuracy @4.2K: –. Heater Resistance: –. Power: –. Current: –."
+  }
+]
